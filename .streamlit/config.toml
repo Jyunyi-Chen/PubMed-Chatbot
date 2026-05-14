@@ -1,0 +1,15 @@
+[theme]
+# Primary accent color for interactive elements.
+primaryColor = "#7C5E42"
+
+# Background color for the main content area.
+backgroundColor = "#E7E3D7"
+
+# Background color used for the sidebar and most interactive widgets.
+secondaryBackgroundColor = "#CBB69D"
+
+# Color used for almost all text.
+textColor = "#000000"
+
+[server]
+port = 8087

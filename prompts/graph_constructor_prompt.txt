@@ -1,0 +1,295 @@
+### NODE NAMES
+
+This section provides node candidates that we believe may be suitable for inclusion in the knowledge graph. Please select as many candidates as possible from this list to serve as nodes.
+
+Information for each node candidate will be presented to you in the following format:
+
+*Candidate 0:*
+
+* *Node Name:* [...] (The canonical name of the node. If you intend to add this node to the knowledge graph, the Node ID **must** be identical to this name.)
+* *Node Type:* [...] (The classification of the node. There are seven categories in total; please refer to the next section for the definition of each category.)
+* *Node Definition:* [...] (A brief description of this node, intended to assist you in verifying whether it truly corresponds to a specific term mentioned in the given PubMed paper. This field may be empty; however, an empty value **does not preclude** the use of this node.)
+* *Corresponding Term in the Paper:* [...] (The term in the given PubMed paper that we believe corresponds to this node. This correspondence is not necessarily correct, but we estimate it to be accurate over 95% of the time.)
+
+#### List of Node Candidates
+
+Below are all the node candidates and their corresponding information provided for this task:
+
+{umls_concepts}
+
+#### Important Notices
+
+* **Exclusive Vocabulary:** You are STRICTLY limited to the nodes listed in the **Reference List** above. Do NOT create, invent, or extract any nodes that are not explicitly defined in that list.
+  
+* **Maximize Coverage:** Strive to include as many concepts from the list as possible in your final graph. Treat the list as a set of candidate entities that *should* be present if the text supports it.
+ 
+* **Exclusion Criteria:** You may omit a concept from the list ONLY under the following two conditions:
+
+  * **No Relation:** The provided text does not contain sufficient evidence to form a valid, factual relationship (triplet) involving that concept.
+  * **Incorrect Mapping:** The *Node Definition* provided in the list clearly contradicts the meaning or context of the *linked term* as it appears in the source text (i.e., the pre-generated mapping is factually incorrect).
+
+---
+
+### NODE TYPES
+
+Below are the definitions for each node type:
+
+1. Anatomy
+
+* *Definition:* A semantic group that comprises structural components of organisms, including body parts, organs, tissues, cells, cell components, body systems, body regions, body spaces or junctions, embryonic structures, and body substances.
+
+2. Chemicals & Drugs
+
+* *Definition:* A semantic group that includes chemical substances and pharmacologic agents, such as organic and inorganic chemicals, elements and ions, nucleic acids, amino acids and proteins, antibiotics, hormones, vitamins, biomedical materials, clinical drugs, and other biologically active or hazardous substances.
+
+3. Disorders
+
+* *Definition:* A semantic group representing abnormal conditions and pathologic states affecting an organism. It covers diseases and syndromes, congenital and acquired abnormalities, injuries and poisonings, neoplastic processes, cell or molecular dysfunctions, pathologic functions, clinical findings, and signs and symptoms.
+
+4. Genes & Molecular Sequences
+
+* *Definition:* A semantic group that encompasses hereditary units and their molecular representations, including genes, genomes, and molecular sequences such as nucleotide, amino acid, and carbohydrate sequences
+
+5. Living Beings
+
+* *Definition:* A semantic group consisting of living organisms and organism-based groupings. It includes humans, animals, plants, viruses, fungi, and other organisms, as well as population groups, age groups, family groups, patient or disabled groups, and professional or occupational groups.
+
+6. Physiology
+
+* *Definition:* A semantic group representing normal biological attributes and functions at multiple levels of organization. It includes molecular, cellular, tissue, organ, and whole-organism functions; organism and clinical attributes; genetic functions; mental processes; and general physiologic functions that characterize normal living systems.
+
+7. Procedures
+
+* *Definition:* A semantic group covering planned actions and processes performed for health care, research, or education. It includes diagnostic procedures, laboratory procedures, therapeutic and preventive procedures, health care activities, research activities, molecular biology research techniques, and educational activities understood as procedural interventions.
+
+---
+
+### RELATIONSHIP TYPES
+
+Below are the definitions and examples for each relationship type:
+
+1. ADMINISTERED_TO
+
+* *Definition:* Used when a substance, procedure, or intervention is given or applied to a recipient, without asserting that it is being used as therapy.
+* *Example 1:* "Patients with a single brain lesion were given an additional course of radiotherapy of 3 Gy × 5 fractions." → (radiotherapy **ADMINISTERED_TO** patients)
+* *Example 2:* "Healthy volunteers received a single oral dose of 50 mg drug X to evaluate pharmacokinetics." → (drug X **ADMINISTERED_TO** healthy volunteers)
+* *Example 3:* "The survey questionnaire was distributed to all nursing staff in the ICU." → (survey questionnaire **ADMINISTERED_TO** nursing staff)
+
+2. AFFECTS
+
+* *Definition:* The source directly influences or alters the state, function, or behavior of the target (e.g., up‑ or down‑regulation, functional change).
+* *Example 1:* "BAP31 and its caspase cleavage product regulate the cell‑surface expression of tetraspanins." → (BAP31 **AFFECTS** cell‑surface expression of tetraspanins)
+* *Example 2:* "Dietary modifications significantly influenced the gut microbiome composition." → (dietary modifications **AFFECT** gut microbiome composition)
+* *Example 3:* "The mutation in the p53 gene alters the cell cycle progression." → (mutation in p53 gene **AFFECTS** cell cycle progression)
+
+3. ASSOCIATED_WITH
+
+* *Definition:* A broad relation indicating that two entities are linked or observed together (e.g., co‑occurrence, correlation, clinical association), without specifying mechanism or causality.
+* *Example 1:* "EP2 plays a critical role in tumorigenesis in the mouse mammary gland." → (EP2 **ASSOCIATED_WITH** tumorigenesis)
+* *Example 2:* "Elevated serum ferritin levels were linked to poor prognosis in sepsis patients." → (Elevated serum ferritin **ASSOCIATED_WITH** poor prognosis)
+* *Example 3:* "There is a strong connection between sedentary lifestyle and cardiovascular risk." → (sedentary lifestyle **ASSOCIATED_WITH** cardiovascular risk)
+
+4. CAUSES
+
+* *Definition:* The source brings about, initiates, or is an etiologic agent for the target condition or event.
+* *Example 1:* "Neurocysticercosis is one of the major causes of neurological disease." → (neurocysticercosis **CAUSES** neurological disease)
+* *Example 2:* "Exposure to asbestos is a known driver of malignant mesothelioma." → (asbestos **CAUSES** malignant mesothelioma)
+* *Example 3:* "Varicella-zoster virus infection results in chickenpox." → (Varicella-zoster virus **CAUSES** chickenpox)
+
+5. COEXISTS_WITH
+
+* *Definition:* Two conditions or phenomena are present in the same individual, tissue, or population at the same time, without implying that either causes the other.
+* *Example 1:* "Constipation related to food intolerance is accompanied by proctitis." → (constipation **COEXISTS_WITH** proctitis)
+* *Example 2:* "Anxiety frequently occurs alongside major depressive disorder." → (anxiety **COEXISTS_WITH** major depressive disorder)
+* *Example 3:* "In this patient cohort, hypertension was often present with hyperlipidemia." → (hypertension **COEXISTS_WITH** hyperlipidemia)
+
+6. COMPARED_WITH
+
+* *Definition:* Marks an explicit comparison between two entities with respect to some outcome, effect, or property.
+* *Example 1:* "Compared with placebo, candesartan therapy significantly lowered plasma hsCRP levels." → (candesartan **COMPARED_WITH** placebo)
+* *Example 2:* "We analyzed the efficacy of laparoscopic surgery versus open surgery." → (laparoscopic surgery **COMPARED_WITH** open surgery)
+* *Example 3:* "The expression of Gene A was evaluated against Gene B in tumor tissues." → (Gene A **COMPARED_WITH** Gene B)
+
+7. COMPLICATES
+
+* *Definition:* The source makes the target condition more severe, more complex, or harder to manage, or leads to additional adverse outcomes.
+* *Example 1:* "Infections can trigger GBS and exacerbate CIDP." → (infections **COMPLICATE** CIDP)
+* *Example 2:* "Acute kidney injury frequently worsens the clinical course of heart failure." → (Acute kidney injury **COMPLICATES** heart failure)
+* *Example 3:* "Post-operative hemorrhage added difficulty to the recovery process." → (hemorrhage **COMPLICATES** recovery process)
+
+8. CONVERTS_TO
+
+* *Definition:* The source substance is transformed or converted into the target substance (e.g., by oxidation, metabolism).
+* *Example 1:* "Plasma nitrite is readily oxidized to nitrate in blood." → (nitrite **CONVERTS_TO** nitrate)
+* *Example 2:* "The liver metabolizes ethanol into acetaldehyde." → (ethanol **CONVERTS_TO** acetaldehyde)
+* *Example 3:* "Testosterone is aromatized into estradiol in adipose tissue." → (testosterone **CONVERTS_TO** estradiol)
+
+9. DIAGNOSES
+
+* *Definition:* A test, measurement, or procedure is used to identify, characterize, or confirm the presence or nature of the target condition.
+* *Example 1:* "Manometry showed a higher anal sphincter resting pressure." → (manometry **DIAGNOSES** elevated anal sphincter resting pressure)
+* *Example 2:* "RT-PCR was used to confirm the presence of SARS-CoV-2 RNA." → (RT-PCR **DIAGNOSES** SARS-CoV-2 RNA)
+* *Example 3:* "A biopsy confirmed the diagnosis of invasive ductal carcinoma." → (biopsy **DIAGNOSES** invasive ductal carcinoma)
+
+10. HIGHER_THAN
+
+* *Definition:* Comparative relation indicating that the source has a greater value or stronger effect on a given scale than the target.
+* *Example 1:* "Losartan was more effective than atenolol in reducing cardiovascular morbidity." → (losartan **HIGHER_THAN** atenolol)
+* *Example 2:* "The survival rate in Group A was superior to that in Group B." → (survival rate in Group A **HIGHER_THAN** Group B)
+* *Example 3:* "Protein expression levels were elevated in tumor tissue compared to normal tissue." → (expression in tumor tissue **HIGHER_THAN** expression in normal tissue)
+
+11. INHIBITS
+
+* *Definition:* The source reduces, suppresses, or blocks the activity, expression, or function of the target.
+* *Example 1:* "In recent studies, BDNF expression was reduced by typical neuroleptics." → (neuroleptics **INHIBIT** BDNF expression)
+* *Example 2:* "Aspirin blocks the activity of the cyclooxygenase enzyme." → (Aspirin **INHIBITS** cyclooxygenase)
+* *Example 3:* "siRNA transfection suppressed the translation of the target mRNA." → (siRNA **INHIBITS** target mRNA translation)
+
+12. INTERACTS_WITH
+
+* *Definition:* The source and target directly interact (e.g., binding, enzymatic reaction, complex formation), typically between molecular entities.
+* *Example 1:* "We show that chymases, chymotryptic peptidases secreted by mast cells, hydrolyze HGF." → (chymases **INTERACT_WITH** HGF)
+* *Example 2:* "The drug specifically binds to the ATP-binding pocket of the kinase." → (drug **INTERACTS_WITH** kinase)
+* *Example 3:* "Protein A forms a stable complex with Protein B in the cytoplasm." → (Protein A **INTERACTS_WITH** Protein B)
+
+13. ISA
+
+* *Definition:* Taxonomic “is‑a” relation. **Strictly:** The **Source** must be the **specific subtype**, and the **Target** must be the **general category**.
+* *Example 1:* "The sympathetic neurotransmitter norepinephrine has been found ..." → (norepinephrine **ISA** neurotransmitter)
+* *Example 2:* "Adenocarcinoma is a type of non-small cell lung cancer." → (Adenocarcinoma **ISA** non-small cell lung cancer)
+* *Example 3:* "We investigated ibuprofen and other non-steroidal anti-inflammatory drugs (NSAIDs)." → (ibuprofen **ISA** NSAIDs)
+
+14. LOCATION_OF
+
+* *Definition:* The source anatomical structure or region is the site where the target entity resides or the target process occurs.
+* *Example 1:* "We report a case of primary cardiac epithelioid hemangioendothelioma arising from the right atrium." → (right atrium **LOCATION_OF** epithelioid hemangioendothelioma)
+* *Example 2:* "Glycolysis primarily takes place in the cytoplasm of the cell." → (cytoplasm **LOCATION_OF** glycolysis)
+* *Example 3:* "The hippocampus is the site of memory consolidation." → (hippocampus **LOCATION_OF** memory consolidation)
+
+15. LOWER_THAN
+
+* *Definition:* Comparative relation indicating that the source has a smaller value or weaker effect than the target on a defined scale.
+* *Example 1:* "Amoxicillin‑clavulanate was not as effective as ciprofloxacin for treating uncomplicated bladder infection." → (amoxicillin‑clavulanate **LOWER_THAN** ciprofloxacin)
+* *Example 2:* "The incidence of side effects was significantly less in the experimental group than the control group." → (incidence in experimental group **LOWER_THAN** control group)
+* *Example 3:* "Gene X expression was downregulated in treated cells compared to untreated cells." → (Gene X expression in treated **LOWER_THAN** Gene X expression in untreated)
+
+16. MANIFESTATION_OF
+
+* *Definition:* The source is an observable sign, symptom, or expression that evidences or results from the target underlying process, disease, or condition.
+* *Example 1:* "Recurrence of glomerulopathy underlying end‑stage renal failure was frequent." → (recurrence of glomerulopathy **MANIFESTATION_OF** end‑stage renal failure)
+* *Example 2:* "Jaundice is a common clinical sign of liver dysfunction." → (Jaundice **MANIFESTATION_OF** liver dysfunction)
+* *Example 3:* "Proteinuria served as an indicator of kidney damage." → (Proteinuria **MANIFESTATION_OF** kidney damage)
+
+17. NEGATIVE_CORRELATES
+
+* *Definition:* Across observations, higher values or presence of the source tend to be associated with lower levels or occurrence of the target (or vice versa), without asserting a direct causal relationship.
+* *Example 1:* "Compared with the high‑glucose group, miR‑145‑5p mRNA levels were higher, whereas CAMK1D levels were lower." → (miR‑145‑5p **NEGATIVE_CORRELATES** CAMK1D)
+* *Example 2:* "Physical activity levels were inversely associated with body mass index (BMI)." → (Physical activity **NEGATIVE_CORRELATES** BMI)
+* *Example 3:* "Increased vaccination coverage corresponded with a decline in disease outbreaks." → (vaccination coverage **NEGATIVE_CORRELATES** disease outbreaks)
+
+18. NO_EFFECT
+
+* *Definition:* Used when analysis explicitly shows no measurable or statistically significant effect of the source on the target, despite having tested for such an effect.
+* *Example 1:* "Overexpression of Dlk1/Pref‑1 did not change the proliferation rate of hMSCs." → (Dlk1/Pref‑1 **NO_EFFECT** proliferation rate of hMSC)
+* *Example 2:* "Treatment with Vitamin C showed no impact on the duration of the common cold." → (Vitamin C **NO_EFFECT** duration of common cold)
+* *Example 3:* "The genetic polymorphism was not associated with altered drug response." → (genetic polymorphism **NO_EFFECT** drug response)
+
+19. OCCURS_IN
+
+* *Definition:* The source condition, event, or phenomenon is observed within a particular group, population, or context.
+* *Example 1:* "Older populations are more prone to bone loss during weight loss." → (bone loss **OCCURS_IN** older populations)
+* *Example 2:* "Sickle cell trait is frequently found in individuals of African descent." → (Sickle cell trait **OCCURS_IN** individuals of African descent)
+* *Example 3:* "Mitosis takes place in somatic cells." → (Mitosis **OCCURS_IN** somatic cells)
+
+20. PART_OF
+
+* *Definition:* The source is a component, segment, or substructure of the target whole.
+* *Example 1:* "The probasal bodies and microtubules lie within the blepharoplast cavities." → (microtubules **PART_OF** blepharoplast cavities)
+* *Example 2:* "The nucleus is a key organelle within the eukaryotic cell." → (nucleus **PART_OF** eukaryotic cell)
+* *Example 3:* "The amino acid sequence is an integral component of the protein structure." → (amino acid sequence **PART_OF** protein structure)
+
+21. POSITIVE_CORRELATES
+
+* *Definition:* Across observations, higher values or presence of the source tend to be associated with higher levels or occurrence of the target (or vice versa), without claiming causality.
+* *Example 1:* "When we transplanted these cells, we observed an increase in striatal tyrosine hydroxylase (TH) staining." → (transplanted cells **POSITIVE_CORRELATES** TH staining)
+* *Example 2:* "Air pollution levels strongly track with the number of respiratory emergency visits." → (Air pollution levels **POSITIVE_CORRELATES** respiratory emergency visits)
+* *Example 3:* "Higher caloric intake was associated with increased adipose tissue mass." → (caloric intake **POSITIVE_CORRELATES** adipose tissue mass)
+
+22. PRECEDES
+
+* *Definition:* Temporal relation: the source event or condition occurs earlier in time than the target event.
+* *Example 1:* "Ischemic stroke often occurs before hemorrhagic transformation." → (ischemic stroke **PRECEDES** hemorrhagic transformation)
+* *Example 2:* "A viral prodrome typically manifests prior to the onset of the rash." → (viral prodrome **PRECEDES** rash)
+* *Example 3:* "DNA replication must happen before cell division." → (DNA replication **PRECEDES** cell division)
+
+23. PREDISPOSES
+
+* *Definition:* The source factor increases susceptibility or risk for the target condition, without necessarily being a direct cause.
+* *Example 1:* "High ghrelin levels contribute to obesity in Prader–Willi syndrome." → (high ghrelin **PREDISPOSES** obesity)
+* *Example 2:* "Smoking significantly increases the risk of developing lung cancer." → (Smoking **PREDISPOSES** lung cancer)
+* *Example 3:* "The BRCA1 mutation makes carriers susceptible to breast cancer." → (BRCA1 mutation **PREDISPOSES** breast cancer)
+
+24. PREVENTS
+
+* *Definition:* The source inhibits, blocks, or protects against the appearance or progression of the target condition.
+* *Example 1:* "Ipsapirone protects against circulatory shock." → (ipsapirone **PREVENTS** circulatory shock)
+* *Example 2:* "Vaccination is the most effective way to avoid measles infection." → (Vaccination **PREVENTS** measles infection)
+* *Example 3:* "Use of statins reduces the incidence of myocardial infarction." → (statins **PREVENT** myocardial infarction)
+
+25. PRODUCES
+
+* *Definition:* The source generates, secretes, or yields the target entity.
+* *Example 1:* "Human endothelial progenitor cells express functional PAR‑1." → (endothelial progenitor cells **PRODUCE** PAR‑1)
+* *Example 2:* "Beta cells in the pancreas secrete insulin." → (Beta cells **PRODUCE** insulin)
+* *Example 3:* "The enzymatic reaction yields a fluorescent product." → (enzymatic reaction **PRODUCES** fluorescent product)
+
+26. SAME_AS
+
+* *Definition:* Comparative relation indicating that two entities are equivalent with respect to some property (e.g., effectiveness) or are considered interchangeable in the relevant context.
+* *Example 1:* "Candesartan is as effective as lisinopril once daily in reducing blood pressure." → (candesartan **SAME_AS** lisinopril)
+* *Example 2:* "The generic formulation was found to be bioequivalent to the brand-name drug." → (generic formulation **SAME_AS** brand-name drug)
+* *Example 3:* "Method A yielded results identical to those of Method B." → (Method A **SAME_AS** Method B)
+
+27. STIMULATES
+
+* *Definition:* The source increases or facilitates the action, production, or function of the target.
+* *Example 1:* "Candesartan therapy significantly increased adiponectin levels." → (candesartan **STIMULATES** adiponectin)
+* *Example 2:* "Growth hormone promotes the growth of long bones." → (Growth hormone **STIMULATES** bone growth)
+* *Example 3:* "Caffeine activates the central nervous system." → (Caffeine **STIMULATES** central nervous system)
+
+28. TREATS
+
+* *Definition:* A therapeutic agent or procedure is used to cure, alleviate, or manage the target disease or condition.
+* *Example 1:* "Penicillin is effective against infections caused by gram‑positive cocci." → (penicillin **TREATS** gram‑positive coccal infections)
+* *Example 2:* "Insulin is used to manage blood sugar levels in diabetes." → (Insulin **TREATS** diabetes)
+* *Example 3:* "Cognitive behavioral therapy is utilized to manage anxiety disorders." → (Cognitive behavioral therapy **TREATS** anxiety disorders)
+
+29. USES
+
+* *Definition:* The source process, intervention, or method employs the target entity as part of its implementation.
+* *Example 1:* "Pre‑emptive therapy with oral valganciclovir is used for CMV infections." → (pre‑emptive therapy **USES** valganciclovir)
+* *Example 2:* "The diagnostic protocol employs Magnetic Resonance Imaging (MRI)." → (diagnostic protocol **USES** MRI)
+* *Example 3:* "Western blot analysis utilizes specific antibodies for protein detection." → (Western blot analysis **USES** antibodies)
+
+---
+
+### RELATIONSHIP PROPERTIES (REQUIRED)
+
+For every relationship you output, you MUST provide relationship properties for:
+
+1. `evidence`
+
+* Copy a short verbatim span from the input (Title/Abstract only).
+* Max 300 characters.
+* Must directly support the relationship type.
+
+2. `confidence`
+
+* Output a number between 0.00 and 1.00 (two decimals).
+* Use lower values when evidence is weak/implicit.
+
+#### Important Notices
+
+* If you cannot provide a valid `evidence` span copied verbatim from the provided Title/Abstract, DO NOT output that relationship.
+* DO NOT add extra properties beyond the two above.
+* DO NOT paraphrase evidence; it must be verbatim.

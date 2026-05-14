@@ -1,0 +1,510 @@
+{
+    "T052": {
+        "Semantic_Type": "Activity",
+        "Semantic_Group": "Activities & Behaviors"
+    },
+    "T053": {
+        "Semantic_Type": "Behavior",
+        "Semantic_Group": "Activities & Behaviors"
+    },
+    "T056": {
+        "Semantic_Type": "Daily or Recreational Activity",
+        "Semantic_Group": "Activities & Behaviors"
+    },
+    "T051": {
+        "Semantic_Type": "Event",
+        "Semantic_Group": "Activities & Behaviors"
+    },
+    "T064": {
+        "Semantic_Type": "Governmental or Regulatory Activity",
+        "Semantic_Group": "Activities & Behaviors"
+    },
+    "T055": {
+        "Semantic_Type": "Individual Behavior",
+        "Semantic_Group": "Activities & Behaviors"
+    },
+    "T066": {
+        "Semantic_Type": "Machine Activity",
+        "Semantic_Group": "Activities & Behaviors"
+    },
+    "T057": {
+        "Semantic_Type": "Occupational Activity",
+        "Semantic_Group": "Activities & Behaviors"
+    },
+    "T054": {
+        "Semantic_Type": "Social Behavior",
+        "Semantic_Group": "Activities & Behaviors"
+    },
+    "T017": {
+        "Semantic_Type": "Anatomical Structure",
+        "Semantic_Group": "Anatomy"
+    },
+    "T029": {
+        "Semantic_Type": "Body Location or Region",
+        "Semantic_Group": "Anatomy"
+    },
+    "T023": {
+        "Semantic_Type": "Body Part, Organ, or Organ Component",
+        "Semantic_Group": "Anatomy"
+    },
+    "T030": {
+        "Semantic_Type": "Body Space or Junction",
+        "Semantic_Group": "Anatomy"
+    },
+    "T031": {
+        "Semantic_Type": "Body Substance",
+        "Semantic_Group": "Anatomy"
+    },
+    "T022": {
+        "Semantic_Type": "Body System",
+        "Semantic_Group": "Anatomy"
+    },
+    "T025": {
+        "Semantic_Type": "Cell",
+        "Semantic_Group": "Anatomy"
+    },
+    "T026": {
+        "Semantic_Type": "Cell Component",
+        "Semantic_Group": "Anatomy"
+    },
+    "T018": {
+        "Semantic_Type": "Embryonic Structure",
+        "Semantic_Group": "Anatomy"
+    },
+    "T021": {
+        "Semantic_Type": "Fully Formed Anatomical Structure",
+        "Semantic_Group": "Anatomy"
+    },
+    "T024": {
+        "Semantic_Type": "Tissue",
+        "Semantic_Group": "Anatomy"
+    },
+    "T116": {
+        "Semantic_Type": "Amino Acid, Peptide, or Protein",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T195": {
+        "Semantic_Type": "Antibiotic",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T123": {
+        "Semantic_Type": "Biologically Active Substance",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T122": {
+        "Semantic_Type": "Biomedical or Dental Material",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T103": {
+        "Semantic_Type": "Chemical",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T120": {
+        "Semantic_Type": "Chemical Viewed Functionally",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T104": {
+        "Semantic_Type": "Chemical Viewed Structurally",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T200": {
+        "Semantic_Type": "Clinical Drug",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T196": {
+        "Semantic_Type": "Element, Ion, or Isotope",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T126": {
+        "Semantic_Type": "Enzyme",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T131": {
+        "Semantic_Type": "Hazardous or Poisonous Substance",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T125": {
+        "Semantic_Type": "Hormone",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T129": {
+        "Semantic_Type": "Immunologic Factor",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T130": {
+        "Semantic_Type": "Indicator, Reagent, or Diagnostic Aid",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T197": {
+        "Semantic_Type": "Inorganic Chemical",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T114": {
+        "Semantic_Type": "Nucleic Acid, Nucleoside, or Nucleotide",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T109": {
+        "Semantic_Type": "Organic Chemical",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T121": {
+        "Semantic_Type": "Pharmacologic Substance",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T192": {
+        "Semantic_Type": "Receptor",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T127": {
+        "Semantic_Type": "Vitamin",
+        "Semantic_Group": "Chemicals & Drugs"
+    },
+    "T185": {
+        "Semantic_Type": "Classification",
+        "Semantic_Group": "Concepts & Ideas"
+    },
+    "T077": {
+        "Semantic_Type": "Conceptual Entity",
+        "Semantic_Group": "Concepts & Ideas"
+    },
+    "T169": {
+        "Semantic_Type": "Functional Concept",
+        "Semantic_Group": "Concepts & Ideas"
+    },
+    "T102": {
+        "Semantic_Type": "Group Attribute",
+        "Semantic_Group": "Concepts & Ideas"
+    },
+    "T078": {
+        "Semantic_Type": "Idea or Concept",
+        "Semantic_Group": "Concepts & Ideas"
+    },
+    "T170": {
+        "Semantic_Type": "Intellectual Product",
+        "Semantic_Group": "Concepts & Ideas"
+    },
+    "T171": {
+        "Semantic_Type": "Language",
+        "Semantic_Group": "Concepts & Ideas"
+    },
+    "T080": {
+        "Semantic_Type": "Qualitative Concept",
+        "Semantic_Group": "Concepts & Ideas"
+    },
+    "T081": {
+        "Semantic_Type": "Quantitative Concept",
+        "Semantic_Group": "Concepts & Ideas"
+    },
+    "T089": {
+        "Semantic_Type": "Regulation or Law",
+        "Semantic_Group": "Concepts & Ideas"
+    },
+    "T082": {
+        "Semantic_Type": "Spatial Concept",
+        "Semantic_Group": "Concepts & Ideas"
+    },
+    "T079": {
+        "Semantic_Type": "Temporal Concept",
+        "Semantic_Group": "Concepts & Ideas"
+    },
+    "T203": {
+        "Semantic_Type": "Drug Delivery Device",
+        "Semantic_Group": "Devices"
+    },
+    "T074": {
+        "Semantic_Type": "Medical Device",
+        "Semantic_Group": "Devices"
+    },
+    "T075": {
+        "Semantic_Type": "Research Device",
+        "Semantic_Group": "Devices"
+    },
+    "T020": {
+        "Semantic_Type": "Acquired Abnormality",
+        "Semantic_Group": "Disorders"
+    },
+    "T190": {
+        "Semantic_Type": "Anatomical Abnormality",
+        "Semantic_Group": "Disorders"
+    },
+    "T049": {
+        "Semantic_Type": "Cell or Molecular Dysfunction",
+        "Semantic_Group": "Disorders"
+    },
+    "T019": {
+        "Semantic_Type": "Congenital Abnormality",
+        "Semantic_Group": "Disorders"
+    },
+    "T047": {
+        "Semantic_Type": "Disease or Syndrome",
+        "Semantic_Group": "Disorders"
+    },
+    "T050": {
+        "Semantic_Type": "Experimental Model of Disease",
+        "Semantic_Group": "Disorders"
+    },
+    "T033": {
+        "Semantic_Type": "Finding",
+        "Semantic_Group": "Disorders"
+    },
+    "T037": {
+        "Semantic_Type": "Injury or Poisoning",
+        "Semantic_Group": "Disorders"
+    },
+    "T048": {
+        "Semantic_Type": "Mental or Behavioral Dysfunction",
+        "Semantic_Group": "Disorders"
+    },
+    "T191": {
+        "Semantic_Type": "Neoplastic Process",
+        "Semantic_Group": "Disorders"
+    },
+    "T046": {
+        "Semantic_Type": "Pathologic Function",
+        "Semantic_Group": "Disorders"
+    },
+    "T184": {
+        "Semantic_Type": "Sign or Symptom",
+        "Semantic_Group": "Disorders"
+    },
+    "T087": {
+        "Semantic_Type": "Amino Acid Sequence",
+        "Semantic_Group": "Genes & Molecular Sequences"
+    },
+    "T088": {
+        "Semantic_Type": "Carbohydrate Sequence",
+        "Semantic_Group": "Genes & Molecular Sequences"
+    },
+    "T028": {
+        "Semantic_Type": "Gene or Genome",
+        "Semantic_Group": "Genes & Molecular Sequences"
+    },
+    "T085": {
+        "Semantic_Type": "Molecular Sequence",
+        "Semantic_Group": "Genes & Molecular Sequences"
+    },
+    "T086": {
+        "Semantic_Type": "Nucleotide Sequence",
+        "Semantic_Group": "Genes & Molecular Sequences"
+    },
+    "T083": {
+        "Semantic_Type": "Geographic Area",
+        "Semantic_Group": "Geographic Areas"
+    },
+    "T100": {
+        "Semantic_Type": "Age Group",
+        "Semantic_Group": "Living Beings"
+    },
+    "T011": {
+        "Semantic_Type": "Amphibian",
+        "Semantic_Group": "Living Beings"
+    },
+    "T008": {
+        "Semantic_Type": "Animal",
+        "Semantic_Group": "Living Beings"
+    },
+    "T194": {
+        "Semantic_Type": "Archaeon",
+        "Semantic_Group": "Living Beings"
+    },
+    "T007": {
+        "Semantic_Type": "Bacterium",
+        "Semantic_Group": "Living Beings"
+    },
+    "T012": {
+        "Semantic_Type": "Bird",
+        "Semantic_Group": "Living Beings"
+    },
+    "T204": {
+        "Semantic_Type": "Eukaryote",
+        "Semantic_Group": "Living Beings"
+    },
+    "T099": {
+        "Semantic_Type": "Family Group",
+        "Semantic_Group": "Living Beings"
+    },
+    "T013": {
+        "Semantic_Type": "Fish",
+        "Semantic_Group": "Living Beings"
+    },
+    "T004": {
+        "Semantic_Type": "Fungus",
+        "Semantic_Group": "Living Beings"
+    },
+    "T096": {
+        "Semantic_Type": "Group",
+        "Semantic_Group": "Living Beings"
+    },
+    "T016": {
+        "Semantic_Type": "Human",
+        "Semantic_Group": "Living Beings"
+    },
+    "T015": {
+        "Semantic_Type": "Mammal",
+        "Semantic_Group": "Living Beings"
+    },
+    "T001": {
+        "Semantic_Type": "Organism",
+        "Semantic_Group": "Living Beings"
+    },
+    "T101": {
+        "Semantic_Type": "Patient or Disabled Group",
+        "Semantic_Group": "Living Beings"
+    },
+    "T002": {
+        "Semantic_Type": "Plant",
+        "Semantic_Group": "Living Beings"
+    },
+    "T098": {
+        "Semantic_Type": "Population Group",
+        "Semantic_Group": "Living Beings"
+    },
+    "T097": {
+        "Semantic_Type": "Professional or Occupational Group",
+        "Semantic_Group": "Living Beings"
+    },
+    "T014": {
+        "Semantic_Type": "Reptile",
+        "Semantic_Group": "Living Beings"
+    },
+    "T010": {
+        "Semantic_Type": "Vertebrate",
+        "Semantic_Group": "Living Beings"
+    },
+    "T005": {
+        "Semantic_Type": "Virus",
+        "Semantic_Group": "Living Beings"
+    },
+    "T071": {
+        "Semantic_Type": "Entity",
+        "Semantic_Group": "Objects"
+    },
+    "T168": {
+        "Semantic_Type": "Food",
+        "Semantic_Group": "Objects"
+    },
+    "T073": {
+        "Semantic_Type": "Manufactured Object",
+        "Semantic_Group": "Objects"
+    },
+    "T072": {
+        "Semantic_Type": "Physical Object",
+        "Semantic_Group": "Objects"
+    },
+    "T167": {
+        "Semantic_Type": "Substance",
+        "Semantic_Group": "Objects"
+    },
+    "T091": {
+        "Semantic_Type": "Biomedical Occupation or Discipline",
+        "Semantic_Group": "Occupations"
+    },
+    "T090": {
+        "Semantic_Type": "Occupation or Discipline",
+        "Semantic_Group": "Occupations"
+    },
+    "T093": {
+        "Semantic_Type": "Health Care Related Organization",
+        "Semantic_Group": "Organizations"
+    },
+    "T092": {
+        "Semantic_Type": "Organization",
+        "Semantic_Group": "Organizations"
+    },
+    "T094": {
+        "Semantic_Type": "Professional Society",
+        "Semantic_Group": "Organizations"
+    },
+    "T095": {
+        "Semantic_Type": "Self-help or Relief Organization",
+        "Semantic_Group": "Organizations"
+    },
+    "T038": {
+        "Semantic_Type": "Biologic Function",
+        "Semantic_Group": "Phenomena"
+    },
+    "T069": {
+        "Semantic_Type": "Environmental Effect of Humans",
+        "Semantic_Group": "Phenomena"
+    },
+    "T068": {
+        "Semantic_Type": "Human-caused Phenomenon or Process",
+        "Semantic_Group": "Phenomena"
+    },
+    "T034": {
+        "Semantic_Type": "Laboratory or Test Result",
+        "Semantic_Group": "Phenomena"
+    },
+    "T070": {
+        "Semantic_Type": "Natural Phenomenon or Process",
+        "Semantic_Group": "Phenomena"
+    },
+    "T067": {
+        "Semantic_Type": "Phenomenon or Process",
+        "Semantic_Group": "Phenomena"
+    },
+    "T043": {
+        "Semantic_Type": "Cell Function",
+        "Semantic_Group": "Physiology"
+    },
+    "T201": {
+        "Semantic_Type": "Clinical Attribute",
+        "Semantic_Group": "Physiology"
+    },
+    "T045": {
+        "Semantic_Type": "Genetic Function",
+        "Semantic_Group": "Physiology"
+    },
+    "T041": {
+        "Semantic_Type": "Mental Process",
+        "Semantic_Group": "Physiology"
+    },
+    "T044": {
+        "Semantic_Type": "Molecular Function",
+        "Semantic_Group": "Physiology"
+    },
+    "T032": {
+        "Semantic_Type": "Organism Attribute",
+        "Semantic_Group": "Physiology"
+    },
+    "T040": {
+        "Semantic_Type": "Organism Function",
+        "Semantic_Group": "Physiology"
+    },
+    "T042": {
+        "Semantic_Type": "Organ or Tissue Function",
+        "Semantic_Group": "Physiology"
+    },
+    "T039": {
+        "Semantic_Type": "Physiologic Function",
+        "Semantic_Group": "Physiology"
+    },
+    "T060": {
+        "Semantic_Type": "Diagnostic Procedure",
+        "Semantic_Group": "Procedures"
+    },
+    "T065": {
+        "Semantic_Type": "Educational Activity",
+        "Semantic_Group": "Procedures"
+    },
+    "T058": {
+        "Semantic_Type": "Health Care Activity",
+        "Semantic_Group": "Procedures"
+    },
+    "T059": {
+        "Semantic_Type": "Laboratory Procedure",
+        "Semantic_Group": "Procedures"
+    },
+    "T063": {
+        "Semantic_Type": "Molecular Biology Research Technique",
+        "Semantic_Group": "Procedures"
+    },
+    "T062": {
+        "Semantic_Type": "Research Activity",
+        "Semantic_Group": "Procedures"
+    },
+    "T061": {
+        "Semantic_Type": "Therapeutic or Preventive Procedure",
+        "Semantic_Group": "Procedures"
+    }
+}

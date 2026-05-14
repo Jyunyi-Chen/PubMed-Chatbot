@@ -1,0 +1,37 @@
+# Environment & credentials
+.env
+datasets/google_credentials.json
+
+# Claude Code local settings
+.claude/
+
+# Vector database (generated, can be rebuilt with build_vector_dbs.py)
+chroma_db/
+
+# UMLS large data files (downloaded separately)
+umls_2025ab/*.bin
+umls_2025ab/*.npz
+umls_2025ab/*.jsonl
+umls_2025ab/*.json
+
+# Knowledge graph data (generated, can be rebuilt with build scripts)
+nodes/
+edges/
+knowledge_graphs/
+
+# PubMed paper data (downloaded via pubmed_papers.py)
+pubmed_papers/
+
+# Logs
+logs/
+chat_logs/
+evaluation_logs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS
+.DS_Store

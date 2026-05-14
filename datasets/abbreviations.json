@@ -1,0 +1,5453 @@
+{
+    "3'-UTR": {
+        "3'-untranslated region": 96,
+        "3' untranslated region": 23,
+        "3'-untranslated regions": 11
+    },
+    "3'UTR": {
+        "3' untranslated region": 82,
+        "3'-untranslated region": 26,
+        "3'untranslated region": 22
+    },
+    "3'UTRs": {
+        "3' untranslated regions": 10
+    },
+    "3-MA": {
+        "3-methyladenine": 17
+    },
+    "3D": {
+        "3-dimensional": 38
+    },
+    "5-FC": {
+        "5-fluorocytosine": 12
+    },
+    "5-FU": {
+        "5-fluorouracil": 69
+    },
+    "5-aza": {
+        "5-azacytidine": 17
+    },
+    "5hmC": {
+        "5-hydroxymethylcytosine": 10
+    },
+    "A-to-I": {
+        "adenosine-to-inosine": 10
+    },
+    "AA": {
+        "anemia": 43,
+        "areata": 21,
+        "ascorbic acid": 20,
+        "arachidonic acid": 18
+    },
+    "AAA": {
+        "abdominal aortic aneurysm": 58
+    },
+    "AAV": {
+        "adeno-associated virus": 81,
+        "Adeno-associated virus": 34,
+        "adeno-associated viral": 18
+    },
+    "ABC": {
+        "ATP-binding cassette": 28
+    },
+    "AC": {
+        "articular cartilage": 20,
+        "adenocarcinoma": 10
+    },
+    "ACAN": {
+        "aggrecan": 19
+    },
+    "ACC": {
+        "adrenocortical carcinoma": 14
+    },
+    "ACE": {
+        "angiotensin-converting enzyme": 15
+    },
+    "ACE2": {
+        "angiotensin-converting enzyme 2": 34,
+        "Angiotensin-converting enzyme 2": 11,
+        "angiotensin converting enzyme 2": 10
+    },
+    "ACI": {
+        "autologous chondrocyte implantation": 22
+    },
+    "ACL": {
+        "anterior cruciate ligament": 39
+    },
+    "ACLF": {
+        "acute-on-chronic liver failure": 16
+    },
+    "ACM": {
+        "arrhythmogenic cardiomyopathy": 14
+    },
+    "ACS": {
+        "acute coronary syndrome": 30
+    },
+    "ACT": {
+        "asthma control test": 20
+    },
+    "ACTH": {
+        "adrenocorticotropic hormone": 20
+    },
+    "ACh": {
+        "acetylcholine": 17
+    },
+    "AChE": {
+        "acetylcholinesterase": 32
+    },
+    "ACs": {
+        "articular chondrocytes": 17
+    },
+    "AD": {
+        "atopic dermatitis": 1245,
+        "Alzheimer's disease": 724,
+        "alzheimer disease": 29,
+        "aortic dissection": 20,
+        "adipose tissue": 11,
+        "adipose-derived": 10
+    },
+    "AD-MSCs": {
+        "adipose-derived mesenchymal stem cells": 34,
+        "adipose tissue-derived mesenchymal stem cells": 12,
+        "adipose-derived MSCs": 11
+    },
+    "ADC": {
+        "adenocarcinoma": 10,
+        "apparent diffusion coefficient": 10
+    },
+    "ADHD": {
+        "attention deficit hyperactivity disorder": 14,
+        "attention-deficit/hyperactivity disorder": 13
+    },
+    "ADMSCs": {
+        "adipose-derived mesenchymal stem cells": 42,
+        "Adipose-derived mesenchymal stem cells": 18,
+        "adipose tissue-derived mesenchymal stem cells": 10
+    },
+    "ADPKD": {
+        "autosomal dominant polycystic kidney disease": 22
+    },
+    "ADR": {
+        "adriamycin": 17
+    },
+    "ADSC": {
+        "adipose-derived stem cells": 12
+    },
+    "ADSCs": {
+        "adipose-derived stem cells": 102,
+        "adipose-derived mesenchymal stem cells": 71,
+        "Adipose-derived stem cells": 38,
+        "Adipose-derived mesenchymal stem cells": 28,
+        "adipose tissue-derived stem cells": 26,
+        "adipose derived stem cells": 22,
+        "adipose tissue-derived mesenchymal stem cells": 19,
+        "adipose-derived stromal cells": 14,
+        "adipose mesenchymal stem cells": 11
+    },
+    "ADT": {
+        "androgen deprivation therapy": 12
+    },
+    "AE": {
+        "atopic eczema": 27,
+        "adverse events": 16,
+        "adverse event": 13
+    },
+    "AEs": {
+        "adverse events": 156,
+        "adverse effects": 11
+    },
+    "AF": {
+        "atrial fibrillation": 109,
+        "amniotic fluid": 37,
+        "annulus fibrosus": 16
+    },
+    "AFM": {
+        "atomic force microscopy": 56
+    },
+    "AFP": {
+        "alpha-fetoprotein": 42,
+        "alpha fetoprotein": 16
+    },
+    "AGEs": {
+        "advanced glycation end products": 30
+    },
+    "AGO": {
+        "argonaute": 21
+    },
+    "AGO2": {
+        "argonaute 2": 17
+    },
+    "AH": {
+        "aqueous humor": 15
+    },
+    "AHR": {
+        "airway hyperresponsiveness": 13,
+        "aryl hydrocarbon receptor": 13
+    },
+    "AI": {
+        "artificial intelligence": 22
+    },
+    "AIS": {
+        "acute ischemic stroke": 26,
+        "adolescent idiopathic scoliosis": 16
+    },
+    "AIT": {
+        "allergen immunotherapy": 65,
+        "allergen-specific immunotherapy": 15
+    },
+    "AKI": {
+        "acute kidney injury": 208
+    },
+    "ALB": {
+        "albumin": 37
+    },
+    "ALD": {
+        "alcoholic liver disease": 10
+    },
+    "ALDH": {
+        "aldehyde dehydrogenase": 26
+    },
+    "ALF": {
+        "acute liver failure": 53
+    },
+    "ALI": {
+        "acute lung injury": 167,
+        "acute liver injury": 10
+    },
+    "ALK": {
+        "anaplastic lymphoma kinase": 29
+    },
+    "ALL": {
+        "acute lymphoblastic leukemia": 93,
+        "acute lymphoblastic leukaemia": 10
+    },
+    "ALP": {
+        "alkaline phosphatase": 955
+    },
+    "ALS": {
+        "amyotrophic lateral sclerosis": 287
+    },
+    "ALT": {
+        "alanine transaminase": 15
+    },
+    "AM": {
+        "amniotic membrane": 32,
+        "additive manufacturing": 13
+    },
+    "AMD": {
+        "age-related macular degeneration": 40,
+        "Age-related macular degeneration": 26
+    },
+    "AMH": {
+        "anti-Mullerian hormone": 17
+    },
+    "AMI": {
+        "acute myocardial infarction": 166
+    },
+    "AML": {
+        "acute myeloid leukemia": 352,
+        "acute myeloid leukaemia": 33
+    },
+    "AMPK": {
+        "AMP-activated protein kinase": 55
+    },
+    "AMPs": {
+        "antimicrobial peptides": 13
+    },
+    "AMSCs": {
+        "adipose-derived mesenchymal stem cells": 21
+    },
+    "ANOVA": {
+        "analysis of variance": 16
+    },
+    "ANP": {
+        "atrial natriuretic peptide": 10
+    },
+    "ANXA2": {
+        "annexin a2": 10
+    },
+    "AOM": {
+        "azoxymethane": 12
+    },
+    "AP": {
+        "acute pancreatitis": 29,
+        "alkaline phosphatase": 24
+    },
+    "APA": {
+        "alternative polyadenylation": 15
+    },
+    "APC": {
+        "adenomatous polyposis coli": 20
+    },
+    "APCs": {
+        "antigen-presenting cells": 16
+    },
+    "APL": {
+        "acute promyelocytic leukemia": 16
+    },
+    "APOE": {
+        "apolipoprotein e": 20
+    },
+    "APP": {
+        "amyloid precursor protein": 53
+    },
+    "AR": {
+        "allergic rhinitis": 527,
+        "androgen receptor": 139
+    },
+    "ARC": {
+        "allergic rhinoconjunctivitis": 12
+    },
+    "ARDS": {
+        "acute respiratory distress syndrome": 210
+    },
+    "ARS": {
+        "alizarin red s": 43,
+        "alizarin red staining": 24
+    },
+    "ART": {
+        "antiretroviral therapy": 28,
+        "assisted reproductive technology": 11
+    },
+    "ARVC": {
+        "arrhythmogenic right ventricular cardiomyopathy": 10
+    },
+    "AS": {
+        "atherosclerosis": 89,
+        "ankylosing spondylitis": 66,
+        "alternative splicing": 30,
+        "autologous serum": 10
+    },
+    "ASC": {
+        "adipose-derived stem cells": 20,
+        "adipose-derived stem cell": 15
+    },
+    "ASCs": {
+        "adipose-derived stem cells": 138,
+        "adipose-derived mesenchymal stem cells": 50,
+        "Adipose-derived stem cells": 45,
+        "Adipose-derived mesenchymal stem cells": 31,
+        "adipose-derived stromal cells": 31,
+        "adipose stem cells": 30,
+        "adipose tissue-derived mesenchymal stem cells": 30,
+        "adipose tissue-derived stem cells": 28,
+        "adipose-derived MSCs": 23,
+        "adult stem cells": 15,
+        "adipose-derived stromal/stem cells": 13,
+        "adipose-derived stem/stromal cells": 12,
+        "adipose stromal cells": 11,
+        "adipose tissue-derived stromal cells": 11,
+        "adipose mesenchymal stem cells": 10
+    },
+    "ASD": {
+        "autism spectrum disorder": 99,
+        "autism spectrum disorders": 20
+    },
+    "ASIA": {
+        "association": 11
+    },
+    "ASM": {
+        "airway smooth muscle": 14
+    },
+    "ASMCs": {
+        "airway smooth muscle cells": 13
+    },
+    "ASO": {
+        "antisense oligonucleotide": 21
+    },
+    "ASOs": {
+        "antisense oligonucleotides": 31
+    },
+    "AST": {
+        "aspartate transaminase": 15
+    },
+    "AT": {
+        "adipose tissue": 115
+    },
+    "AT-MSCs": {
+        "adipose tissue-derived mesenchymal stem cells": 32
+    },
+    "ATC": {
+        "anaplastic thyroid carcinoma": 11
+    },
+    "ATF4": {
+        "activating transcription factor 4": 13
+    },
+    "ATMP": {
+        "advanced therapy medicinal product": 11,
+        "advanced therapy medicinal products": 10
+    },
+    "ATO": {
+        "arsenic trioxide": 10
+    },
+    "ATP": {
+        "adenosine triphosphate": 57
+    },
+    "ATRA": {
+        "all-trans retinoic acid": 24
+    },
+    "AUC": {
+        "area under curve": 50
+    },
+    "AUD": {
+        "alcohol use disorder": 18
+    },
+    "Abeta": {
+        "amyloid beta": 30,
+        "amyloid-beta": 24
+    },
+    "Ad": {
+        "adenovirus": 15
+    },
+    "Ago": {
+        "argonaute": 10
+    },
+    "Ago2": {
+        "argonaute 2": 19
+    },
+    "AhR": {
+        "aryl hydrocarbon receptor": 36
+    },
+    "Alb": {
+        "albumin": 11
+    },
+    "Ang-1": {
+        "angiopoietin-1": 11
+    },
+    "AngII": {
+        "angiotensin II": 12
+    },
+    "ApoE": {
+        "apolipoprotein e": 16
+    },
+    "Aβ": {
+        "amyloid-β": 16,
+        "amyloid β": 10
+    },
+    "B-ALL": {
+        "B-cell acute lymphoblastic leukemia": 16
+    },
+    "BAL": {
+        "bronchoalveolar lavage": 26
+    },
+    "BALF": {
+        "bronchoalveolar lavage fluid": 53
+    },
+    "BAT": {
+        "brown adipose tissue": 18
+    },
+    "BBB": {
+        "blood-brain barrier": 148,
+        "blood brain barrier": 13
+    },
+    "BC": {
+        "breast cancer": 358,
+        "bladder cancer": 89,
+        "bacterial cellulose": 10
+    },
+    "BCC": {
+        "basal cell carcinoma": 10
+    },
+    "BCCs": {
+        "breast cancer cells": 16
+    },
+    "BCP": {
+        "biphasic calcium phosphate": 19
+    },
+    "BCR": {
+        "biochemical recurrence": 14,
+        "b cell receptor": 11
+    },
+    "BCSCs": {
+        "breast cancer stem cells": 20
+    },
+    "BCVA": {
+        "best corrected visual acuity": 10
+    },
+    "BCa": {
+        "bladder cancer": 42
+    },
+    "BD": {
+        "bipolar disorder": 33,
+        "Behcet's disease": 10
+    },
+    "BDL": {
+        "bile duct ligation": 17
+    },
+    "BDNF": {
+        "brain-derived neurotrophic factor": 150,
+        "Brain-derived neurotrophic factor": 30,
+        "brain derived neurotrophic factor": 21
+    },
+    "BER": {
+        "base excision repair": 11
+    },
+    "BG": {
+        "bioactive glass": 15
+    },
+    "BL": {
+        "burkitt lymphoma": 10
+    },
+    "BLCA": {
+        "bladder cancer": 23,
+        "bladder urothelial carcinoma": 10
+    },
+    "BLI": {
+        "bioluminescence imaging": 39
+    },
+    "BLM": {
+        "bleomycin": 34
+    },
+    "BM": {
+        "bone marrow": 1044,
+        "basement membrane": 12,
+        "bone marrow-derived": 12,
+        "brain metastasis": 10
+    },
+    "BM-MSC": {
+        "bone marrow mesenchymal stem cells": 28,
+        "bone marrow-derived mesenchymal stem cells": 18,
+        "bone marrow mesenchymal stem cell": 12,
+        "bone marrow-derived MSC": 12,
+        "bone marrow-derived mesenchymal stromal cells": 11,
+        "bone marrow-derived mesenchymal stem cell": 11
+    },
+    "BM-MSCs": {
+        "bone marrow-derived mesenchymal stem cells": 155,
+        "bone marrow mesenchymal stem cells": 151,
+        "bone marrow-derived MSCs": 71,
+        "bone marrow mesenchymal stromal cells": 42,
+        "bone marrow-derived mesenchymal stromal cells": 40,
+        "bone marrow MSCs": 32,
+        "bone marrow derived mesenchymal stem cells": 25,
+        "bone marrow-mesenchymal stem cells": 11,
+        "bone-marrow-derived mesenchymal stem cells": 10
+    },
+    "BMA": {
+        "bone marrow aspirate": 14
+    },
+    "BMAC": {
+        "bone marrow aspirate concentrate": 19
+    },
+    "BMC": {
+        "bone marrow concentrate": 16
+    },
+    "BMCs": {
+        "bone marrow cells": 16
+    },
+    "BMD": {
+        "bone mineral density": 92
+    },
+    "BMDMs": {
+        "bone marrow-derived macrophages": 15
+    },
+    "BMI": {
+        "body mass index": 118
+    },
+    "BMM": {
+        "bone marrow microenvironment": 14
+    },
+    "BMMSC": {
+        "bone marrow mesenchymal stem cells": 15,
+        "bone marrow mesenchymal stem cell": 11
+    },
+    "BMMSCs": {
+        "bone marrow mesenchymal stem cells": 108,
+        "bone marrow-derived mesenchymal stem cells": 39,
+        "bone marrow MSCs": 13,
+        "bone marrow-derived MSCs": 11
+    },
+    "BMP": {
+        "bone morphogenetic protein": 147,
+        "bone morphogenic protein": 19,
+        "bone morphogenetic proteins": 10
+    },
+    "BMP-2": {
+        "bone morphogenetic protein-2": 137,
+        "bone morphogenetic protein 2": 68,
+        "bone morphogenic protein-2": 22
+    },
+    "BMP-4": {
+        "bone morphogenetic protein-4": 10
+    },
+    "BMP-7": {
+        "bone morphogenetic protein-7": 10
+    },
+    "BMP2": {
+        "bone morphogenetic protein 2": 91,
+        "bone morphogenetic protein-2": 19,
+        "bone morphogenic protein 2": 14
+    },
+    "BMP4": {
+        "bone morphogenetic protein 4": 20
+    },
+    "BMP7": {
+        "bone morphogenetic protein 7": 10
+    },
+    "BMP9": {
+        "bone morphogenetic protein 9": 13
+    },
+    "BMPs": {
+        "bone morphogenetic proteins": 94
+    },
+    "BMSC": {
+        "bone marrow mesenchymal stem cell": 52,
+        "bone marrow stromal cells": 50,
+        "bone marrow stromal cell": 36,
+        "bone marrow mesenchymal stem cells": 28,
+        "bone marrow-derived mesenchymal stem cell": 15,
+        "bone marrow-derived mesenchymal stem cells": 13,
+        "bone mesenchymal stem cell": 10
+    },
+    "BMSCs": {
+        "bone marrow mesenchymal stem cells": 531,
+        "bone marrow stromal cells": 251,
+        "bone marrow-derived mesenchymal stem cells": 222,
+        "bone mesenchymal stem cells": 88,
+        "bone marrow stem cells": 42,
+        "bone marrow-derived MSCs": 34,
+        "bone marrow-derived mesenchymal stromal cells": 31,
+        "bone marrow mesenchymal stromal cells": 25,
+        "bone marrow-derived stem cells": 19,
+        "bone marrow-derived stromal cells": 17,
+        "bone marrow MSCs": 15
+    },
+    "BMT": {
+        "bone marrow transplantation": 18
+    },
+    "BNP": {
+        "brain natriuretic peptide": 14
+    },
+    "BOS": {
+        "bronchiolitis obliterans syndrome": 13
+    },
+    "BP": {
+        "blood pressure": 32
+    },
+    "BPA": {
+        "bisphenol a": 23
+    },
+    "BPD": {
+        "bronchopulmonary dysplasia": 112
+    },
+    "BPH": {
+        "benign prostatic hyperplasia": 29
+    },
+    "BPs": {
+        "bisphosphonates": 12,
+        "biological processes": 11
+    },
+    "BRCA": {
+        "breast cancer": 25
+    },
+    "BSA": {
+        "body surface area": 32,
+        "bovine serum albumin": 24
+    },
+    "BSP": {
+        "bone sialoprotein": 59
+    },
+    "BTE": {
+        "bone tissue engineering": 40
+    },
+    "BTK": {
+        "Bruton's tyrosine kinase": 10
+    },
+    "BUN": {
+        "blood urea nitrogen": 36
+    },
+    "Bcl-2": {
+        "B-cell lymphoma-2": 24,
+        "B-cell lymphoma 2": 23
+    },
+    "BrCa": {
+        "breast cancer": 10
+    },
+    "BrdU": {
+        "5-bromo-2'-deoxyuridine": 14,
+        "bromodeoxyuridine": 12
+    },
+    "C-ACT": {
+        "childhood asthma control test": 17
+    },
+    "C/EBPalpha": {
+        "CCAAT/enhancer binding protein alpha": 12,
+        "CCAAT/enhancer-binding protein alpha": 10
+    },
+    "CAC": {
+        "cancer": 14
+    },
+    "CAD": {
+        "coronary artery disease": 143
+    },
+    "CAF": {
+        "cancer-associated fibroblasts": 19,
+        "cancer-associated fibroblast": 11
+    },
+    "CAFs": {
+        "cancer-associated fibroblasts": 103,
+        "Cancer-associated fibroblasts": 57,
+        "cancer associated fibroblasts": 13,
+        "carcinoma-associated fibroblasts": 13
+    },
+    "CAM": {
+        "chorioallantoic membrane": 39
+    },
+    "CAMs": {
+        "cell adhesion molecules": 17
+    },
+    "CAP": {
+        "cold atmospheric plasma": 11
+    },
+    "CAR": {
+        "chimeric antigen receptor": 59
+    },
+    "CAT": {
+        "catalase": 34
+    },
+    "CAVD": {
+        "calcific aortic valve disease": 22
+    },
+    "CB": {
+        "cord blood": 98
+    },
+    "CBD": {
+        "cannabidiol": 20
+    },
+    "CC": {
+        "cancer": 128
+    },
+    "CCI": {
+        "constriction injury": 15
+    },
+    "CCK": {
+        "cell counting kit": 19
+    },
+    "CCK-8": {
+        "cell counting kit-8": 327,
+        "cell counting kit 8": 12
+    },
+    "CCK8": {
+        "cell counting kit-8": 36,
+        "cell counting kit 8": 13
+    },
+    "CD": {
+        "Crohn's disease": 129,
+        "cluster of differentiation": 40,
+        "cytosine deaminase": 12
+    },
+    "CDH": {
+        "congenital diaphragmatic hernia": 11
+    },
+    "CDK": {
+        "cyclin-dependent kinase": 22
+    },
+    "CDK6": {
+        "cyclin-dependent kinase 6": 10
+    },
+    "CDLQI": {
+        "Children's dermatology life quality index": 12
+    },
+    "CDS": {
+        "coding sequence": 19
+    },
+    "CEA": {
+        "carcinoembryonic antigen": 29
+    },
+    "CF": {
+        "cystic fibrosis": 75
+    },
+    "CFA": {
+        "complete Freund's adjuvant": 11
+    },
+    "CFU": {
+        "colony-forming unit": 22,
+        "colony forming unit": 13
+    },
+    "CFU-F": {
+        "colony forming unit-fibroblast": 22,
+        "colony-forming unit-fibroblast": 17,
+        "colony-forming unit fibroblast": 10
+    },
+    "CFUs": {
+        "colony-forming units": 13
+    },
+    "CFs": {
+        "cardiac fibroblasts": 19
+    },
+    "CG": {
+        "control group": 15
+    },
+    "CGGA": {
+        "chinese glioma genome atlas": 12
+    },
+    "CGRP": {
+        "calcitonin gene-related peptide": 16
+    },
+    "CHB": {
+        "chronic hepatitis b": 34
+    },
+    "CHC": {
+        "chronic hepatitis c": 12
+    },
+    "CHD": {
+        "coronary heart disease": 52,
+        "congenital heart disease": 29
+    },
+    "CHF": {
+        "chronic heart failure": 17
+    },
+    "CHIKV": {
+        "chikungunya virus": 13
+    },
+    "CHOP": {
+        "C/EBP homologous protein": 10
+    },
+    "CI": {
+        "confidence interval": 245,
+        "confidence intervals": 39
+    },
+    "CIA": {
+        "collagen-induced arthritis": 53
+    },
+    "CIs": {
+        "confidence intervals": 84
+    },
+    "CK": {
+        "creatine kinase": 13,
+        "cytokeratin": 10
+    },
+    "CK19": {
+        "cytokeratin 19": 11
+    },
+    "CK7": {
+        "cytokeratin 7": 10
+    },
+    "CKD": {
+        "chronic kidney disease": 164
+    },
+    "CLI": {
+        "critical limb ischemia": 50
+    },
+    "CLL": {
+        "chronic lymphocytic leukemia": 73,
+        "chronic lymphocytic leukaemia": 12
+    },
+    "CLSM": {
+        "confocal laser scanning microscopy": 10
+    },
+    "CM": {
+        "conditioned medium": 232,
+        "conditioned media": 102,
+        "cow's milk": 10,
+        "cutaneous melanoma": 10,
+        "conditional medium": 10
+    },
+    "CMA": {
+        "cow's milk allergy": 27
+    },
+    "CMF": {
+        "cow's milk formula": 10
+    },
+    "CML": {
+        "chronic myeloid leukemia": 82,
+        "chronic myelogenous leukemia": 21
+    },
+    "CMV": {
+        "cytomegalovirus": 45
+    },
+    "CMap": {
+        "connectivity map": 19
+    },
+    "CMs": {
+        "cardiomyocytes": 63
+    },
+    "CNKI": {
+        "china national knowledge infrastructure": 15
+    },
+    "CNS": {
+        "central nervous system": 376
+    },
+    "CNTs": {
+        "carbon nanotubes": 15
+    },
+    "CNV": {
+        "copy number variation": 31,
+        "choroidal neovascularization": 19
+    },
+    "CNVs": {
+        "copy number variations": 20
+    },
+    "COAD": {
+        "colon adenocarcinoma": 45
+    },
+    "COL": {
+        "collagen": 13
+    },
+    "COMP": {
+        "cartilage oligomeric matrix protein": 20
+    },
+    "COPD": {
+        "chronic obstructive pulmonary disease": 192
+    },
+    "COVID-19": {
+        "coronavirus disease 2019": 211,
+        "coronavirus disease-19": 10
+    },
+    "COX": {
+        "cyclooxygenase": 25
+    },
+    "COX-2": {
+        "cyclooxygenase-2": 70
+    },
+    "COX2": {
+        "cyclooxygenase 2": 10
+    },
+    "CP": {
+        "chronic pancreatitis": 20,
+        "cerebral palsy": 19
+    },
+    "CPAP": {
+        "continuous positive airway pressure": 10
+    },
+    "CPB": {
+        "cardiopulmonary bypass": 11
+    },
+    "CPC": {
+        "calcium phosphate cement": 27
+    },
+    "CPCs": {
+        "cardiac progenitor cells": 12
+    },
+    "CPVT": {
+        "catecholaminergic polymorphic ventricular tachycardia": 11
+    },
+    "CR": {
+        "complete response": 23,
+        "complete remission": 22
+    },
+    "CRC": {
+        "colorectal cancer": 933,
+        "carcinoma": 41
+    },
+    "CREB": {
+        "cAMP response element-binding protein": 12,
+        "cAMP response element binding protein": 11
+    },
+    "CRF": {
+        "chronic renal failure": 10
+    },
+    "CRGs": {
+        "cuproptosis-related genes": 20
+    },
+    "CRISPR": {
+        "clustered regularly interspaced short palindromic repeats": 67,
+        "clustered regularly interspaced short palindromic repeat": 14
+    },
+    "CRP": {
+        "C-reactive protein": 120
+    },
+    "CRPC": {
+        "castration-resistant prostate cancer": 46
+    },
+    "CRS": {
+        "chronic rhinosinusitis": 28
+    },
+    "CRSwNP": {
+        "chronic rhinosinusitis with nasal polyps": 25
+    },
+    "CS": {
+        "chitosan": 41,
+        "chondroitin sulfate": 40,
+        "cigarette smoke": 20
+    },
+    "CSC": {
+        "cancer stem cell": 79,
+        "cancer stem cells": 36
+    },
+    "CSCC": {
+        "cutaneous squamous cell carcinoma": 14
+    },
+    "CSCs": {
+        "cancer stem cells": 283,
+        "cancer stem-like cells": 17
+    },
+    "CSE": {
+        "cigarette smoke extract": 35
+    },
+    "CSF": {
+        "cerebrospinal fluid": 142
+    },
+    "CSU": {
+        "chronic spontaneous urticaria": 13
+    },
+    "CT": {
+        "computed tomography": 84,
+        "micro-computed tomography": 10
+    },
+    "CTCs": {
+        "circulating tumor cells": 60
+    },
+    "CTD": {
+        "comparative toxicogenomics database": 27
+    },
+    "CTEPH": {
+        "chronic thromboembolic pulmonary hypertension": 10
+    },
+    "CTGF": {
+        "connective tissue growth factor": 58
+    },
+    "CTLs": {
+        "cytotoxic t lymphocytes": 11
+    },
+    "CUMS": {
+        "chronic unpredictable mild stress": 13
+    },
+    "CV": {
+        "cardiovascular": 19,
+        "chorionic villi": 12
+    },
+    "CVB3": {
+        "coxsackievirus b3": 16
+    },
+    "CVD": {
+        "cardiovascular disease": 92,
+        "cardiovascular diseases": 28
+    },
+    "CVDs": {
+        "cardiovascular diseases": 69
+    },
+    "CXCR4": {
+        "c-x-c chemokine receptor type 4": 15
+    },
+    "CYP": {
+        "cytochrome p450": 27
+    },
+    "CaP": {
+        "calcium phosphate": 45
+    },
+    "CaSR": {
+        "calcium-sensing receptor": 10
+    },
+    "Cd": {
+        "cadmium": 16
+    },
+    "ChAT": {
+        "choline acetyltransferase": 12
+    },
+    "ChIP": {
+        "chromatin immunoprecipitation": 165
+    },
+    "Co-IP": {
+        "co-immunoprecipitation": 13
+    },
+    "Col": {
+        "collagen": 21
+    },
+    "CsA": {
+        "cyclosporine a": 11
+    },
+    "Cx43": {
+        "connexin 43": 25,
+        "connexin43": 12
+    },
+    "DA": {
+        "dopaminergic": 49,
+        "dopamine": 36
+    },
+    "DAI": {
+        "disease activity index": 11
+    },
+    "DAT": {
+        "dopamine transporter": 14
+    },
+    "DAergic": {
+        "dopaminergic": 14
+    },
+    "DBM": {
+        "demineralized bone matrix": 34
+    },
+    "DC": {
+        "dendritic cells": 32,
+        "dendritic cell": 22
+    },
+    "DCA": {
+        "decision curve analysis": 15
+    },
+    "DCIS": {
+        "ductal carcinoma in situ": 16
+    },
+    "DCM": {
+        "dilated cardiomyopathy": 65,
+        "diabetic cardiomyopathy": 25
+    },
+    "DCs": {
+        "dendritic cells": 132
+    },
+    "DDD": {
+        "degenerative disc disease": 11
+    },
+    "DDR": {
+        "DNA damage response": 41
+    },
+    "DE": {
+        "differentially expressed": 209,
+        "differential expression": 16,
+        "definitive endoderm": 15
+    },
+    "DE-mRNAs": {
+        "differentially expressed mRNAs": 12
+    },
+    "DE-miRNAs": {
+        "differentially expressed miRNAs": 35
+    },
+    "DECs": {
+        "differentially expressed circRNAs": 26
+    },
+    "DED": {
+        "dry eye disease": 11
+    },
+    "DEG": {
+        "differentially expressed gene": 12
+    },
+    "DEGs": {
+        "differentially expressed genes": 936,
+        "differential expression genes": 16,
+        "differently expressed genes": 16
+    },
+    "DELs": {
+        "differentially expressed lncRNAs": 27
+    },
+    "DEMs": {
+        "differentially expressed miRNAs": 107,
+        "differentially expressed mRNAs": 20
+    },
+    "DENV": {
+        "dengue virus": 31
+    },
+    "DEPs": {
+        "differentially expressed proteins": 27
+    },
+    "DEX": {
+        "dexamethasone": 45
+    },
+    "DEcircRNAs": {
+        "differentially expressed circRNAs": 29
+    },
+    "DElncRNAs": {
+        "differentially expressed lncRNAs": 42
+    },
+    "DEmRNAs": {
+        "differentially expressed mRNAs": 67
+    },
+    "DEmiRNAs": {
+        "differentially expressed miRNAs": 61
+    },
+    "DEmiRs": {
+        "differentially expressed miRNAs": 21
+    },
+    "DFCs": {
+        "dental follicle cells": 13
+    },
+    "DFO": {
+        "deferoxamine": 14
+    },
+    "DFS": {
+        "disease-free survival": 93
+    },
+    "DFU": {
+        "diabetic foot ulcer": 19
+    },
+    "DFUs": {
+        "diabetic foot ulcers": 18
+    },
+    "DFs": {
+        "dermal fibroblasts": 10
+    },
+    "DG": {
+        "dentate gyrus": 10
+    },
+    "DHA": {
+        "docosahexaenoic acid": 20
+    },
+    "DHT": {
+        "dihydrotestosterone": 14
+    },
+    "DKD": {
+        "diabetic kidney disease": 65
+    },
+    "DKK1": {
+        "dickkopf-1": 17
+    },
+    "DLB": {
+        "dementia with lewy bodies": 16
+    },
+    "DLBCL": {
+        "diffuse large B-cell lymphoma": 81,
+        "diffuse large b cell lymphoma": 16
+    },
+    "DLQI": {
+        "dermatology life quality index": 79
+    },
+    "DLS": {
+        "dynamic light scattering": 18
+    },
+    "DLX5": {
+        "distal-less homeobox 5": 11
+    },
+    "DM": {
+        "diabetes mellitus": 126,
+        "dermatomyositis": 12
+    },
+    "DMD": {
+        "duchenne muscular dystrophy": 95
+    },
+    "DMEM": {
+        "Dulbecco's modified Eagle's medium": 23
+    },
+    "DMP1": {
+        "dentin matrix protein 1": 10
+    },
+    "DMRs": {
+        "differentially methylated regions": 21
+    },
+    "DMSCs": {
+        "dermal mesenchymal stem cells": 11
+    },
+    "DMSO": {
+        "dimethyl sulfoxide": 46
+    },
+    "DN": {
+        "diabetic nephropathy": 116
+    },
+    "DNAm": {
+        "DNA methylation": 16
+    },
+    "DNMT": {
+        "DNA methyltransferase": 14
+    },
+    "DNMT1": {
+        "DNA methyltransferase 1": 31
+    },
+    "DNMTs": {
+        "DNA methyltransferases": 25
+    },
+    "DO": {
+        "distraction osteogenesis": 12
+    },
+    "DOX": {
+        "doxorubicin": 49,
+        "doxycycline": 11
+    },
+    "DP": {
+        "dental pulp": 22
+    },
+    "DPCs": {
+        "dental pulp cells": 12
+    },
+    "DPP-4": {
+        "dipeptidyl peptidase-4": 11
+    },
+    "DPSC": {
+        "dental pulp stem cells": 18
+    },
+    "DPSCs": {
+        "dental pulp stem cells": 146
+    },
+    "DR": {
+        "diabetic retinopathy": 109
+    },
+    "DRG": {
+        "dorsal root ganglia": 31,
+        "dorsal root ganglion": 27
+    },
+    "DS": {
+        "down syndrome": 33,
+        "dravet syndrome": 10
+    },
+    "DSB": {
+        "double-strand break": 12
+    },
+    "DSBs": {
+        "double-strand breaks": 23
+    },
+    "DSC": {
+        "differential scanning calorimetry": 13
+    },
+    "DSCs": {
+        "decidual stromal cells": 10
+    },
+    "DSPP": {
+        "dentin sialophosphoprotein": 10
+    },
+    "DSS": {
+        "dextran sulfate sodium": 47,
+        "disease-specific survival": 29,
+        "dextran sodium sulfate": 13
+    },
+    "DTX": {
+        "docetaxel": 12
+    },
+    "DVT": {
+        "deep vein thrombosis": 12
+    },
+    "Dex": {
+        "dexamethasone": 61
+    },
+    "Dox": {
+        "doxorubicin": 28,
+        "doxycycline": 15
+    },
+    "Drp1": {
+        "dynamin-related protein 1": 11
+    },
+    "E2F1": {
+        "e2f transcription factor 1": 15
+    },
+    "EAC": {
+        "esophageal adenocarcinoma": 16
+    },
+    "EAE": {
+        "encephalomyelitis": 90
+    },
+    "EAT": {
+        "epicardial adipose tissue": 11
+    },
+    "EB": {
+        "embryoid body": 21,
+        "epidermolysis bullosa": 11
+    },
+    "EBV": {
+        "epstein-barr virus": 154
+    },
+    "EBs": {
+        "embryoid bodies": 42
+    },
+    "EC": {
+        "endothelial cell": 60,
+        "endometrial cancer": 57,
+        "endothelial cells": 51,
+        "endometrial carcinoma": 34,
+        "esophageal cancer": 33
+    },
+    "ECFCs": {
+        "endothelial colony-forming cells": 21,
+        "endothelial colony forming cells": 14
+    },
+    "ECG": {
+        "electrocardiogram": 11
+    },
+    "ECM": {
+        "extracellular matrix": 1143,
+        "extra cellular matrix": 17,
+        "cell-extracellular matrix": 11,
+        "extracellular matrices": 10
+    },
+    "ECMs": {
+        "extracellular matrices": 21
+    },
+    "ECP": {
+        "eosinophil cationic protein": 10
+    },
+    "ECs": {
+        "endothelial cells": 266
+    },
+    "ED": {
+        "erectile dysfunction": 35,
+        "emergency department": 20
+    },
+    "EDSS": {
+        "expanded disability status scale": 13
+    },
+    "EECs": {
+        "epithelial cells": 10
+    },
+    "EF": {
+        "ejection fraction": 22
+    },
+    "EFS": {
+        "event-free survival": 12
+    },
+    "EGCG": {
+        "epigallocatechin-3-gallate": 14,
+        "epigallocatechin gallate": 11
+    },
+    "EGF": {
+        "epidermal growth factor": 128
+    },
+    "EGFP": {
+        "enhanced green fluorescent protein": 52
+    },
+    "EGFR": {
+        "epidermal growth factor receptor": 226
+    },
+    "EH": {
+        "essential hypertension": 10
+    },
+    "ELISA": {
+        "enzyme-linked immunosorbent assay": 244,
+        "Enzyme-linked immunosorbent assay": 49,
+        "enzyme linked immunosorbent assay": 23,
+        "enzyme-linked immunosorbent assays": 18
+    },
+    "EM": {
+        "electron microscopy": 14
+    },
+    "EMSA": {
+        "electrophoretic mobility shift assay": 18
+    },
+    "EMT": {
+        "epithelial-mesenchymal transition": 826,
+        "epithelial-to-mesenchymal transition": 230,
+        "Epithelial-mesenchymal transition": 94,
+        "epithelial to mesenchymal transition": 86,
+        "epithelial mesenchymal transition": 50,
+        "Epithelial-to-mesenchymal transition": 34,
+        "epithelial-mesenchymal transformation": 21
+    },
+    "EMs": {
+        "endometriosis": 10
+    },
+    "EOC": {
+        "epithelial ovarian cancer": 83
+    },
+    "EPA": {
+        "eicosapentaenoic acid": 10
+    },
+    "EPC": {
+        "endothelial progenitor cells": 28,
+        "endothelial progenitor cell": 13
+    },
+    "EPCs": {
+        "endothelial progenitor cells": 157
+    },
+    "EPO": {
+        "erythropoietin": 39
+    },
+    "ER": {
+        "endoplasmic reticulum": 214,
+        "estrogen receptor": 113
+    },
+    "ER+": {
+        "estrogen receptor-positive": 16
+    },
+    "ERK": {
+        "extracellular signal-regulated kinase": 64,
+        "extracellular signal-regulated kinases": 10
+    },
+    "ERK1/2": {
+        "extracellular signal-regulated kinase 1/2": 27
+    },
+    "ERS": {
+        "endoplasmic reticulum stress": 23
+    },
+    "ERalpha": {
+        "estrogen receptor alpha": 28
+    },
+    "ERs": {
+        "estrogen receptors": 11
+    },
+    "ES": {
+        "embryonic stem": 98,
+        "electrical stimulation": 17,
+        "Ewing's sarcoma": 11
+    },
+    "ESC": {
+        "embryonic stem cell": 39,
+        "embryonic stem cells": 26
+    },
+    "ESCC": {
+        "esophageal squamous cell carcinoma": 209
+    },
+    "ESCs": {
+        "embryonic stem cells": 149,
+        "endometrial stromal cells": 25
+    },
+    "ESR": {
+        "erythrocyte sedimentation rate": 19
+    },
+    "ESRD": {
+        "end-stage renal disease": 29
+    },
+    "ET": {
+        "essential thrombocythemia": 10
+    },
+    "ET-1": {
+        "endothelin-1": 24
+    },
+    "ETC": {
+        "electron transport chain": 10
+    },
+    "EV": {
+        "extracellular vesicles": 80,
+        "extracellular vesicle": 77
+    },
+    "EV71": {
+        "enterovirus 71": 13
+    },
+    "EVT": {
+        "extravillous trophoblast": 10
+    },
+    "EVs": {
+        "extracellular vesicles": 1314,
+        "extracellular vehicles": 15
+    },
+    "EXOs": {
+        "exosomes": 21
+    },
+    "EdU": {
+        "5-ethynyl-2'-deoxyuridine": 59,
+        "5-Ethynyl-2'-deoxyuridine": 12
+    },
+    "EndMT": {
+        "endothelial-to-mesenchymal transition": 25
+    },
+    "EoE": {
+        "eosinophilic esophagitis": 29
+    },
+    "EpCAM": {
+        "epithelial cell adhesion molecule": 22
+    },
+    "Exo": {
+        "exosomes": 29
+    },
+    "Exos": {
+        "exosomes": 44
+    },
+    "FA": {
+        "food allergy": 50,
+        "focal adhesion": 17,
+        "fatty acid": 15,
+        "fanconi anemia": 14,
+        "folic acid": 10
+    },
+    "FAAH": {
+        "fatty acid amide hydrolase": 10
+    },
+    "FACS": {
+        "fluorescence-activated cell sorting": 70,
+        "fluorescence activated cell sorting": 19
+    },
+    "FAK": {
+        "focal adhesion kinase": 94
+    },
+    "FAO": {
+        "fatty acid oxidation": 18
+    },
+    "FAP": {
+        "fibroblast activation protein": 12,
+        "familial adenomatous polyposis": 12
+    },
+    "FASN": {
+        "fatty acid synthase": 18
+    },
+    "FAs": {
+        "focal adhesions": 13
+    },
+    "FBG": {
+        "fasting blood glucose": 12
+    },
+    "FBS": {
+        "fetal bovine serum": 235,
+        "foetal bovine serum": 15
+    },
+    "FBs": {
+        "fibroblasts": 13
+    },
+    "FC": {
+        "fold change": 21
+    },
+    "FCM": {
+        "flow cytometry": 73
+    },
+    "FCS": {
+        "fetal calf serum": 66
+    },
+    "FD": {
+        "fabry disease": 11
+    },
+    "FDM": {
+        "fused deposition modeling": 11
+    },
+    "FDR": {
+        "false discovery rate": 24
+    },
+    "FF": {
+        "follicular fluid": 15
+    },
+    "FFAs": {
+        "free fatty acids": 10
+    },
+    "FFPE": {
+        "formalin-fixed paraffin-embedded": 30
+    },
+    "FGF": {
+        "fibroblast growth factor": 79
+    },
+    "FGF-2": {
+        "fibroblast growth factor-2": 41,
+        "fibroblast growth factor 2": 20
+    },
+    "FGF2": {
+        "fibroblast growth factor 2": 32
+    },
+    "FGF21": {
+        "fibroblast growth factor 21": 13
+    },
+    "FGF23": {
+        "fibroblast growth factor 23": 12
+    },
+    "FGF9": {
+        "fibroblast growth factor 9": 10
+    },
+    "FGFR1": {
+        "fibroblast growth factor receptor 1": 14
+    },
+    "FGFR2": {
+        "fibroblast growth factor receptor 2": 13
+    },
+    "FGFs": {
+        "fibroblast growth factors": 13
+    },
+    "FGR": {
+        "fetal growth restriction": 15
+    },
+    "FH": {
+        "familial hypercholesterolemia": 13
+    },
+    "FHF": {
+        "fulminant hepatic failure": 11
+    },
+    "FISH": {
+        "fluorescence in situ hybridization": 158,
+        "fluorescent in situ hybridization": 25
+    },
+    "FITC": {
+        "fluorescein isothiocyanate": 11
+    },
+    "FL": {
+        "follicular lymphoma": 18
+    },
+    "FLG": {
+        "filaggrin": 13
+    },
+    "FLS": {
+        "fibroblast-like synoviocytes": 18
+    },
+    "FLSs": {
+        "fibroblast-like synoviocytes": 13
+    },
+    "FMF": {
+        "familial mediterranean fever": 13
+    },
+    "FMRP": {
+        "fragile x mental retardation protein": 11
+    },
+    "FN": {
+        "fibronectin": 84
+    },
+    "FN1": {
+        "fibronectin 1": 14
+    },
+    "FOP": {
+        "fibrodysplasia ossificans progressiva": 14
+    },
+    "FOXA1": {
+        "forkhead box a1": 10
+    },
+    "FOXC1": {
+        "forkhead box c1": 11
+    },
+    "FOXO1": {
+        "forkhead box o1": 19
+    },
+    "FOXO3": {
+        "forkhead box o3": 14
+    },
+    "FP": {
+        "fluticasone propionate": 12
+    },
+    "FRGs": {
+        "ferroptosis-related genes": 27
+    },
+    "FSH": {
+        "follicle-stimulating hormone": 21
+    },
+    "FSHD": {
+        "facioscapulohumeral muscular dystrophy": 19
+    },
+    "FTD": {
+        "frontotemporal dementia": 37
+    },
+    "FTIR": {
+        "fourier transform infrared spectroscopy": 23
+    },
+    "FTLD": {
+        "frontotemporal lobar degeneration": 21
+    },
+    "FUS": {
+        "fused in sarcoma": 14
+    },
+    "FVC": {
+        "forced vital capacity": 12
+    },
+    "FVIII": {
+        "factor VIII": 30
+    },
+    "FXR": {
+        "farnesoid x receptor": 11
+    },
+    "FXS": {
+        "fragile x syndrome": 26
+    },
+    "FasL": {
+        "fas ligand": 13
+    },
+    "FeNO": {
+        "fractional exhaled nitric oxide": 17
+    },
+    "Fluc": {
+        "firefly luciferase": 11
+    },
+    "Fn": {
+        "fibronectin": 16
+    },
+    "G-CSF": {
+        "granulocyte colony-stimulating factor": 40,
+        "granulocyte-colony stimulating factor": 18
+    },
+    "GA": {
+        "gestational age": 10
+    },
+    "GABA": {
+        "gamma-aminobutyric acid": 17
+    },
+    "GAG": {
+        "glycosaminoglycan": 18
+    },
+    "GAS5": {
+        "growth arrest-specific 5": 10
+    },
+    "GB": {
+        "glioblastoma": 18
+    },
+    "GBC": {
+        "gallbladder cancer": 26,
+        "gallbladder carcinoma": 11
+    },
+    "GBM": {
+        "glioblastoma": 238,
+        "glioblastoma multiforme": 134
+    },
+    "GBMs": {
+        "glioblastomas": 11
+    },
+    "GBR": {
+        "guided bone regeneration": 15
+    },
+    "GC": {
+        "gastric cancer": 575,
+        "glucocorticoid": 25,
+        "granulosa cell": 17,
+        "gastric carcinoma": 16,
+        "germinal center": 13
+    },
+    "GCF": {
+        "gingival crevicular fluid": 14
+    },
+    "GCV": {
+        "ganciclovir": 21
+    },
+    "GCs": {
+        "granulosa cells": 60,
+        "glucocorticoids": 23
+    },
+    "GD": {
+        "graves' disease": 16,
+        "gaucher disease": 11
+    },
+    "GDM": {
+        "gestational diabetes mellitus": 56
+    },
+    "GDNF": {
+        "glial cell line-derived neurotrophic factor": 26,
+        "glial cell-derived neurotrophic factor": 12
+    },
+    "GEM": {
+        "gemcitabine": 19
+    },
+    "GEO": {
+        "gene expression omnibus": 728,
+        "gene expression omnibus database": 13
+    },
+    "GEPIA": {
+        "gene expression profiling interactive analysis": 38
+    },
+    "GF": {
+        "growth factors": 11,
+        "growth factor": 10
+    },
+    "GFAP": {
+        "glial fibrillary acidic protein": 88
+    },
+    "GFP": {
+        "green fluorescent protein": 168,
+        "green fluorescence protein": 23
+    },
+    "GFR": {
+        "glomerular filtration rate": 19
+    },
+    "GFs": {
+        "growth factors": 49
+    },
+    "GH": {
+        "growth hormone": 25
+    },
+    "GI": {
+        "gastrointestinal": 54
+    },
+    "GISTs": {
+        "gastrointestinal stromal tumors": 33
+    },
+    "GLP-1": {
+        "glucagon-like peptide-1": 25
+    },
+    "GLUT1": {
+        "glucose transporter 1": 11
+    },
+    "GM-CSF": {
+        "granulocyte-macrophage colony-stimulating factor": 17
+    },
+    "GMP": {
+        "good manufacturing practice": 104,
+        "good manufacturing practices": 24
+    },
+    "GMSCs": {
+        "gingival mesenchymal stem cells": 32,
+        "gingiva-derived mesenchymal stem cells": 19
+    },
+    "GNPs": {
+        "gold nanoparticles": 10
+    },
+    "GO": {
+        "gene ontology": 847,
+        "graphene oxide": 53,
+        "graves' ophthalmopathy": 13
+    },
+    "GOF": {
+        "gain-of-function": 10
+    },
+    "GPCR": {
+        "g protein-coupled receptor": 13
+    },
+    "GPCRs": {
+        "g protein-coupled receptors": 10
+    },
+    "GPX4": {
+        "glutathione peroxidase 4": 22
+    },
+    "GPx": {
+        "glutathione peroxidase": 16
+    },
+    "GR": {
+        "glucocorticoid receptor": 41
+    },
+    "GRN": {
+        "gene regulatory network": 12
+    },
+    "GS": {
+        "glutamine synthetase": 11
+    },
+    "GSCs": {
+        "glioma stem cells": 44,
+        "glioblastoma stem cells": 11
+    },
+    "GSDMD": {
+        "gasdermin d": 20
+    },
+    "GSEA": {
+        "gene set enrichment analysis": 259
+    },
+    "GSK": {
+        "glycogen synthase kinase": 16
+    },
+    "GSK-3beta": {
+        "glycogen synthase kinase-3beta": 13
+    },
+    "GSVA": {
+        "gene set variation analysis": 31
+    },
+    "GTEx": {
+        "genotype-tissue expression": 32
+    },
+    "GVHD": {
+        "graft-versus-host disease": 149,
+        "graft versus host disease": 37,
+        "Graft-versus-host disease": 17
+    },
+    "GWAS": {
+        "genome-wide association studies": 53,
+        "genome-wide association study": 42,
+        "Genome-wide association studies": 20,
+        "genome wide association studies": 11
+    },
+    "Gal-3": {
+        "galectin-3": 11
+    },
+    "Gel": {
+        "gelatin": 12
+    },
+    "GelMA": {
+        "gelatin methacryloyl": 17,
+        "gelatin methacrylate": 13
+    },
+    "GvHD": {
+        "graft-versus-host disease": 47,
+        "graft versus host disease": 19
+    },
+    "H&E": {
+        "hematoxylin and eosin": 50,
+        "hematoxylin-eosin": 13
+    },
+    "H/R": {
+        "hypoxia/reoxygenation": 54
+    },
+    "HA": {
+        "hyaluronic acid": 171,
+        "hydroxyapatite": 153,
+        "hyaluronan": 58,
+        "hemophilia a": 15
+    },
+    "HAECs": {
+        "human aortic endothelial cells": 14
+    },
+    "HAM": {
+        "human amniotic membrane": 16
+    },
+    "HAMSCs": {
+        "human amnion-derived mesenchymal stem cells": 11
+    },
+    "HAP": {
+        "hydroxyapatite": 15
+    },
+    "HAp": {
+        "hydroxyapatite": 27
+    },
+    "HBMSCs": {
+        "human bone marrow mesenchymal stem cells": 20,
+        "human bone marrow stromal cells": 12
+    },
+    "HBO": {
+        "hyperbaric oxygen": 12
+    },
+    "HBV": {
+        "hepatitis b virus": 163
+    },
+    "HC": {
+        "healthy controls": 50,
+        "healthy control": 20
+    },
+    "HCC": {
+        "hepatocellular carcinoma": 1382
+    },
+    "HCM": {
+        "hypertrophic cardiomyopathy": 48
+    },
+    "HCMV": {
+        "human cytomegalovirus": 52
+    },
+    "HCT": {
+        "hematopoietic cell transplantation": 34
+    },
+    "HCV": {
+        "hepatitis c virus": 166
+    },
+    "HCs": {
+        "healthy controls": 65
+    },
+    "HD": {
+        "Huntington's disease": 123,
+        "healthy donors": 28,
+        "huntington disease": 15
+    },
+    "HDAC": {
+        "histone deacetylase": 51
+    },
+    "HDAC1": {
+        "histone deacetylase 1": 15
+    },
+    "HDAC2": {
+        "histone deacetylase 2": 11
+    },
+    "HDAC3": {
+        "histone deacetylase 3": 12
+    },
+    "HDAC4": {
+        "histone deacetylase 4": 13
+    },
+    "HDAC6": {
+        "histone deacetylase 6": 15
+    },
+    "HDACs": {
+        "histone deacetylases": 36
+    },
+    "HDF": {
+        "human dermal fibroblast": 10
+    },
+    "HDFs": {
+        "human dermal fibroblasts": 26
+    },
+    "HDL": {
+        "high-density lipoprotein": 24
+    },
+    "HDL-C": {
+        "high-density lipoprotein cholesterol": 11
+    },
+    "HDM": {
+        "house dust mite": 73
+    },
+    "HDMs": {
+        "house dust mites": 10
+    },
+    "HDR": {
+        "homology-directed repair": 10
+    },
+    "HE": {
+        "hematoxylin-eosin": 25
+    },
+    "HF": {
+        "heart failure": 144,
+        "hair follicle": 12,
+        "hepatic fibrosis": 11
+    },
+    "HFD": {
+        "high-fat diet": 83,
+        "high fat diet": 22
+    },
+    "HFpEF": {
+        "heart failure with preserved ejection fraction": 11
+    },
+    "HG": {
+        "high glucose": 91,
+        "high-glucose": 14
+    },
+    "HGF": {
+        "hepatocyte growth factor": 282
+    },
+    "HGFs": {
+        "human gingival fibroblasts": 10
+    },
+    "HGPS": {
+        "hutchinson-gilford progeria syndrome": 20
+    },
+    "HGSOC": {
+        "high-grade serous ovarian cancer": 10
+    },
+    "HI": {
+        "hypoxic-ischemic": 10
+    },
+    "HIE": {
+        "hypoxic-ischemic encephalopathy": 13
+    },
+    "HIF": {
+        "hypoxia-inducible factor": 42,
+        "hypoxia inducible factor": 24
+    },
+    "HIF-1alpha": {
+        "hypoxia-inducible factor-1alpha": 22
+    },
+    "HIFs": {
+        "hypoxia-inducible factors": 14
+    },
+    "HIV": {
+        "human immunodeficiency virus": 77
+    },
+    "HIV-1": {
+        "human immunodeficiency virus type 1": 30
+    },
+    "HK2": {
+        "hexokinase 2": 26
+    },
+    "HLA": {
+        "human leukocyte antigen": 89,
+        "human leucocyte antigen": 13
+    },
+    "HLA-G": {
+        "human leukocyte antigen-G": 14,
+        "human leukocyte antigen g": 10
+    },
+    "HLCs": {
+        "hepatocyte-like cells": 27
+    },
+    "HMGB1": {
+        "high mobility group box 1": 27,
+        "high-mobility group box 1": 11
+    },
+    "HMSCs": {
+        "human mesenchymal stem cells": 28
+    },
+    "HO": {
+        "heterotopic ossification": 31,
+        "heme oxygenase": 12
+    },
+    "HO-1": {
+        "heme oxygenase-1": 49,
+        "heme oxygenase 1": 12
+    },
+    "HOTAIR": {
+        "HOX transcript antisense RNA": 13
+    },
+    "HOX": {
+        "homeobox": 10
+    },
+    "HPA": {
+        "human protein atlas": 37,
+        "hypothalamic-pituitary-adrenal": 12
+    },
+    "HPC": {
+        "hematopoietic progenitor cells": 12
+    },
+    "HPCs": {
+        "hematopoietic progenitor cells": 36
+    },
+    "HPL": {
+        "human platelet lysate": 37
+    },
+    "HPV": {
+        "human papillomavirus": 85,
+        "human papilloma virus": 15
+    },
+    "HPVs": {
+        "human papillomaviruses": 10
+    },
+    "HR": {
+        "hazard ratio": 51,
+        "homologous recombination": 28,
+        "hazard ratios": 12,
+        "hormone receptor": 10
+    },
+    "HRP": {
+        "horseradish peroxidase": 12
+    },
+    "HRQL": {
+        "health-related quality of life": 10
+    },
+    "HRQoL": {
+        "health-related quality of life": 23
+    },
+    "HRs": {
+        "hazard ratios": 34
+    },
+    "HS": {
+        "heparan sulfate": 19,
+        "human serum": 18,
+        "hidradenitis suppurativa": 17,
+        "hypertrophic scar": 11
+    },
+    "HSA": {
+        "human serum albumin": 19
+    },
+    "HSC": {
+        "hematopoietic stem cell": 88,
+        "hematopoietic stem cells": 73,
+        "hepatic stellate cell": 20,
+        "hepatic stellate cells": 15
+    },
+    "HSCT": {
+        "hematopoietic stem cell transplantation": 96,
+        "haematopoietic stem cell transplantation": 10
+    },
+    "HSCs": {
+        "hematopoietic stem cells": 262,
+        "hepatic stellate cells": 114,
+        "haematopoietic stem cells": 24
+    },
+    "HSP70": {
+        "heat shock protein 70": 11
+    },
+    "HSP90": {
+        "heat shock protein 90": 10
+    },
+    "HSPC": {
+        "hematopoietic stem/progenitor cells": 13
+    },
+    "HSPCs": {
+        "hematopoietic stem and progenitor cells": 61,
+        "hematopoietic stem/progenitor cells": 34
+    },
+    "HSPs": {
+        "heat shock proteins": 12
+    },
+    "HSV": {
+        "herpes simplex virus": 27
+    },
+    "HSV-1": {
+        "herpes simplex virus 1": 16,
+        "herpes simplex virus type 1": 12
+    },
+    "HT": {
+        "Hashimoto's thyroiditis": 10
+    },
+    "HTO": {
+        "high tibial osteotomy": 17
+    },
+    "HTS": {
+        "high-throughput screening": 14
+    },
+    "HTT": {
+        "huntingtin": 33
+    },
+    "HUC-MSCs": {
+        "human umbilical cord mesenchymal stem cells": 16
+    },
+    "HUCB": {
+        "human umbilical cord blood": 13
+    },
+    "HUCMSCs": {
+        "human umbilical cord mesenchymal stem cells": 27
+    },
+    "HUCPVCs": {
+        "human umbilical cord perivascular cells": 24
+    },
+    "HUMSCs": {
+        "human umbilical cord mesenchymal stem cells": 29,
+        "human umbilical mesenchymal stem cells": 16
+    },
+    "HUVEC": {
+        "human umbilical vein endothelial cells": 64,
+        "human umbilical vein endothelial cell": 33
+    },
+    "HUVECs": {
+        "human umbilical vein endothelial cells": 462,
+        "human umbilical vascular endothelial cells": 14,
+        "human umbilical vein ECs": 11
+    },
+    "Hb": {
+        "hemoglobin": 14
+    },
+    "Hcy": {
+        "homocysteine": 14
+    },
+    "HuR": {
+        "human antigen r": 19
+    },
+    "I/R": {
+        "ischemia/reperfusion": 81,
+        "ischemia-reperfusion": 44,
+        "ischaemia/reperfusion": 10
+    },
+    "IA": {
+        "intracranial aneurysm": 21,
+        "intra-articular": 13
+    },
+    "IAV": {
+        "influenza a virus": 40
+    },
+    "IAs": {
+        "intracranial aneurysms": 12
+    },
+    "IBC": {
+        "inflammatory breast cancer": 10
+    },
+    "IBD": {
+        "inflammatory bowel disease": 171,
+        "inflammatory bowel diseases": 23
+    },
+    "IBDs": {
+        "inflammatory bowel diseases": 16
+    },
+    "IBS": {
+        "irritable bowel syndrome": 16
+    },
+    "ICA": {
+        "icariin": 11
+    },
+    "ICAM-1": {
+        "intercellular adhesion molecule 1": 20,
+        "intercellular adhesion molecule-1": 18
+    },
+    "ICB": {
+        "immune checkpoint blockade": 22
+    },
+    "ICC": {
+        "intrahepatic cholangiocarcinoma": 32,
+        "immunocytochemistry": 19
+    },
+    "ICGC": {
+        "international cancer genome consortium": 11
+    },
+    "ICH": {
+        "intracerebral hemorrhage": 43
+    },
+    "ICI": {
+        "immune checkpoint inhibitors": 14
+    },
+    "ICIs": {
+        "immune checkpoint inhibitors": 43
+    },
+    "ICM": {
+        "inner cell mass": 12,
+        "ischemic cardiomyopathy": 10
+    },
+    "ICRS": {
+        "international cartilage repair society": 15
+    },
+    "ICS": {
+        "inhaled corticosteroids": 25
+    },
+    "ICU": {
+        "intensive care unit": 24
+    },
+    "ID": {
+        "intellectual disability": 30
+    },
+    "IDD": {
+        "intervertebral disc degeneration": 89,
+        "intervertebral disk degeneration": 10
+    },
+    "IDH": {
+        "isocitrate dehydrogenase": 25
+    },
+    "IDH1": {
+        "isocitrate dehydrogenase 1": 10
+    },
+    "IDO": {
+        "indoleamine 2,3-dioxygenase": 82,
+        "indoleamine-2,3-dioxygenase": 14
+    },
+    "IECs": {
+        "intestinal epithelial cells": 21
+    },
+    "IF": {
+        "immunofluorescence": 62
+    },
+    "IFN": {
+        "interferon": 198
+    },
+    "IFN-beta": {
+        "interferon-beta": 10
+    },
+    "IFN-gamma": {
+        "interferon-gamma": 85,
+        "interferon gamma": 40,
+        "Interferon-gamma": 12
+    },
+    "IFNgamma": {
+        "interferon gamma": 19,
+        "interferon-gamma": 18
+    },
+    "IFNs": {
+        "interferons": 22
+    },
+    "IGA": {
+        "Investigator's global assessment": 63,
+        "investigator global assessment": 28
+    },
+    "IGF": {
+        "insulin-like growth factor": 38
+    },
+    "IGF-1": {
+        "insulin-like growth factor-1": 49,
+        "insulin-like growth factor 1": 32
+    },
+    "IGF1": {
+        "insulin-like growth factor 1": 14
+    },
+    "IGF1R": {
+        "insulin-like growth factor 1 receptor": 12
+    },
+    "IGF2": {
+        "insulin-like growth factor 2": 10
+    },
+    "IH": {
+        "intermittent hypoxia": 10
+    },
+    "IHC": {
+        "immunohistochemistry": 256,
+        "immunohistochemical": 38
+    },
+    "IHD": {
+        "ischemic heart disease": 15
+    },
+    "IHH": {
+        "indian hedgehog": 12
+    },
+    "IKDC": {
+        "international knee documentation committee": 23
+    },
+    "IL": {
+        "interleukin": 717
+    },
+    "IL-1": {
+        "interleukin-1": 25
+    },
+    "IL-10": {
+        "interleukin-10": 73,
+        "interleukin 10": 17
+    },
+    "IL-12": {
+        "interleukin-12": 16
+    },
+    "IL-13": {
+        "interleukin-13": 10
+    },
+    "IL-17": {
+        "interleukin-17": 20,
+        "interleukin 17": 13
+    },
+    "IL-18": {
+        "interleukin-18": 11
+    },
+    "IL-1beta": {
+        "interleukin-1beta": 92,
+        "interleukin 1beta": 25,
+        "interleukin-1 beta": 23,
+        "Interleukin-1beta": 13
+    },
+    "IL-1β": {
+        "interleukin-1β": 30
+    },
+    "IL-2": {
+        "interleukin-2": 21
+    },
+    "IL-33": {
+        "interleukin-33": 12
+    },
+    "IL-4": {
+        "interleukin-4": 34
+    },
+    "IL-6": {
+        "interleukin-6": 219,
+        "interleukin 6": 61
+    },
+    "IL-8": {
+        "interleukin-8": 50
+    },
+    "IL6": {
+        "interleukin 6": 11
+    },
+    "ILCs": {
+        "innate lymphoid cells": 12
+    },
+    "ILD": {
+        "interstitial lung disease": 21
+    },
+    "ILK": {
+        "integrin-linked kinase": 14
+    },
+    "IMF": {
+        "intramuscular fat": 12
+    },
+    "IMQ": {
+        "imiquimod": 11
+    },
+    "INCS": {
+        "intranasal corticosteroid": 10
+    },
+    "INS": {
+        "insulin": 10
+    },
+    "INSR": {
+        "insulin receptor": 12
+    },
+    "IONPs": {
+        "iron oxide nanoparticles": 11
+    },
+    "IOP": {
+        "intraocular pressure": 19
+    },
+    "IP": {
+        "immunoprecipitation": 14
+    },
+    "IPA": {
+        "ingenuity pathway analysis": 57
+    },
+    "IPCs": {
+        "insulin-producing cells": 56,
+        "insulin producing cells": 14
+    },
+    "IPF": {
+        "idiopathic pulmonary fibrosis": 162
+    },
+    "IPFP": {
+        "infrapatellar fat pad": 17
+    },
+    "IR": {
+        "insulin resistance": 56,
+        "ionizing radiation": 46,
+        "ischemia-reperfusion": 16
+    },
+    "IRAK1": {
+        "interleukin-1 receptor-associated kinase 1": 10
+    },
+    "IRES": {
+        "internal ribosome entry site": 24
+    },
+    "IRGs": {
+        "immune-related genes": 12
+    },
+    "IRI": {
+        "ischemia-reperfusion injury": 37,
+        "ischemia/reperfusion injury": 14
+    },
+    "IS": {
+        "ischemic stroke": 65
+    },
+    "ISCT": {
+        "international society for cellular therapy": 32
+    },
+    "ISGA": {
+        "Investigator's static global assessment": 10
+    },
+    "ISGs": {
+        "IFN-stimulated genes": 12,
+        "interferon-stimulated genes": 10
+    },
+    "ISO": {
+        "isoproterenol": 16
+    },
+    "ITP": {
+        "immune thrombocytopenia": 30
+    },
+    "IUA": {
+        "intrauterine adhesion": 24,
+        "intrauterine adhesions": 10
+    },
+    "IUGR": {
+        "intrauterine growth restriction": 23
+    },
+    "IV": {
+        "intravenous": 44,
+        "intravenously": 10
+    },
+    "IVD": {
+        "intervertebral disc": 149
+    },
+    "IVDD": {
+        "intervertebral disc degeneration": 46
+    },
+    "IVDs": {
+        "intervertebral discs": 14
+    },
+    "IVH": {
+        "intraventricular hemorrhage": 11
+    },
+    "IVIG": {
+        "intravenous immunoglobulin": 15
+    },
+    "Ig": {
+        "immunoglobulin": 40
+    },
+    "IgAN": {
+        "IgA nephropathy": 14,
+        "immunoglobulin a nephropathy": 12
+    },
+    "IgE": {
+        "immunoglobulin e": 71
+    },
+    "IgG": {
+        "immunoglobulin g": 18
+    },
+    "JAK": {
+        "janus kinase": 78
+    },
+    "JAK1": {
+        "janus kinase 1": 13
+    },
+    "JAK2": {
+        "janus kinase 2": 14
+    },
+    "JEV": {
+        "japanese encephalitis virus": 13
+    },
+    "JIA": {
+        "juvenile idiopathic arthritis": 18
+    },
+    "JNK": {
+        "c-Jun N-terminal kinase": 45
+    },
+    "K-M": {
+        "kaplan-meier": 21
+    },
+    "KCs": {
+        "kupffer cells": 10
+    },
+    "KD": {
+        "knockdown": 32,
+        "kawasaki disease": 23
+    },
+    "KGF": {
+        "keratinocyte growth factor": 18
+    },
+    "KGN": {
+        "kartogenin": 22
+    },
+    "KIRC": {
+        "kidney renal clear cell carcinoma": 36
+    },
+    "KLF4": {
+        "Kruppel-like factor 4": 29
+    },
+    "KM": {
+        "kaplan-meier": 23
+    },
+    "KO": {
+        "knockout": 90
+    },
+    "KOA": {
+        "knee osteoarthritis": 32
+    },
+    "KS": {
+        "Kaposi's sarcoma": 21
+    },
+    "KSHV": {
+        "Kaposi's sarcoma-associated herpesvirus": 55
+    },
+    "LAD": {
+        "left anterior descending": 10
+    },
+    "LAR": {
+        "local allergic rhinitis": 14
+    },
+    "LBP": {
+        "low back pain": 26
+    },
+    "LC": {
+        "lung cancer": 41,
+        "liver cirrhosis": 11
+    },
+    "LC-MS": {
+        "liquid chromatography-mass spectrometry": 10
+    },
+    "LCLs": {
+        "lymphoblastoid cell lines": 15
+    },
+    "LD": {
+        "linkage disequilibrium": 17
+    },
+    "LDH": {
+        "lactate dehydrogenase": 77
+    },
+    "LDHA": {
+        "lactate dehydrogenase a": 17
+    },
+    "LDL": {
+        "low-density lipoprotein": 35
+    },
+    "LDL-C": {
+        "low-density lipoprotein cholesterol": 20
+    },
+    "LDLR": {
+        "low-density lipoprotein receptor": 11
+    },
+    "LECs": {
+        "lymphatic endothelial cells": 17
+    },
+    "LF": {
+        "liver fibrosis": 11
+    },
+    "LH": {
+        "luteinizing hormone": 23
+    },
+    "LIF": {
+        "leukemia inhibitory factor": 36
+    },
+    "LIHC": {
+        "liver hepatocellular carcinoma": 29
+    },
+    "LIPUS": {
+        "low-intensity pulsed ultrasound": 14
+    },
+    "LN": {
+        "lupus nephritis": 39,
+        "lymph node": 19
+    },
+    "LNA": {
+        "locked nucleic acid": 28
+    },
+    "LNM": {
+        "lymph node metastasis": 25
+    },
+    "LNPs": {
+        "lipid nanoparticles": 14
+    },
+    "LOF": {
+        "loss-of-function": 11
+    },
+    "LOX": {
+        "lysyl oxidase": 15
+    },
+    "LPA": {
+        "lysophosphatidic acid": 31
+    },
+    "LPL": {
+        "lipoprotein lipase": 32
+    },
+    "LPS": {
+        "lipopolysaccharide": 497,
+        "lipopolysaccharides": 26
+    },
+    "LQTS": {
+        "long QT syndrome": 17
+    },
+    "LRP6": {
+        "lipoprotein receptor-related protein 6": 11
+    },
+    "LRRK2": {
+        "leucine-rich repeat kinase 2": 14
+    },
+    "LSCC": {
+        "laryngeal squamous cell carcinoma": 41
+    },
+    "LSCD": {
+        "limbal stem cell deficiency": 10
+    },
+    "LSCs": {
+        "leukemia stem cells": 21,
+        "leukemic stem cells": 11
+    },
+    "LSECs": {
+        "liver sinusoidal endothelial cells": 12
+    },
+    "LT": {
+        "liver transplantation": 24
+    },
+    "LTP": {
+        "long-term potentiation": 13
+    },
+    "LTR": {
+        "long terminal repeat": 16
+    },
+    "LUAD": {
+        "lung adenocarcinoma": 281
+    },
+    "LUSC": {
+        "lung squamous cell carcinoma": 40
+    },
+    "LV": {
+        "left ventricular": 67,
+        "left ventricle": 19
+    },
+    "LVEF": {
+        "left ventricular ejection fraction": 50
+    },
+    "LbL": {
+        "layer-by-layer": 13
+    },
+    "LncRNA": {
+        "long non-coding RNA": 19
+    },
+    "LncRNAs": {
+        "long non-coding RNAs": 46,
+        "long noncoding RNAs": 18
+    },
+    "M-CSF": {
+        "macrophage colony-stimulating factor": 14
+    },
+    "MACE": {
+        "major adverse cardiovascular events": 13
+    },
+    "MACS": {
+        "magnetic-activated cell sorting": 15
+    },
+    "MALAT1": {
+        "metastasis-associated lung adenocarcinoma transcript 1": 41
+    },
+    "MAP2": {
+        "microtubule-associated protein 2": 17
+    },
+    "MAPCs": {
+        "multipotent adult progenitor cells": 10
+    },
+    "MAPK": {
+        "mitogen-activated protein kinase": 211
+    },
+    "MAPKs": {
+        "mitogen-activated protein kinases": 23
+    },
+    "MB": {
+        "medulloblastoma": 16
+    },
+    "MBG": {
+        "mesoporous bioactive glass": 11
+    },
+    "MBP": {
+        "myelin basic protein": 17
+    },
+    "MCA": {
+        "middle cerebral artery": 10
+    },
+    "MCAO": {
+        "middle cerebral artery occlusion": 98
+    },
+    "MCAo": {
+        "middle cerebral artery occlusion": 18
+    },
+    "MCC": {
+        "merkel cell carcinoma": 11
+    },
+    "MCI": {
+        "mild cognitive impairment": 32
+    },
+    "MCL": {
+        "mantle cell lymphoma": 14
+    },
+    "MCODE": {
+        "molecular complex detection": 18
+    },
+    "MCP": {
+        "monocyte chemoattractant protein": 11
+    },
+    "MCP-1": {
+        "monocyte chemoattractant protein-1": 22,
+        "monocyte chemotactic protein-1": 20
+    },
+    "MCPyV": {
+        "merkel cell polyomavirus": 10
+    },
+    "MCT": {
+        "monocrotaline": 24
+    },
+    "MCs": {
+        "mast cells": 15,
+        "mesenchymal cells": 11
+    },
+    "MD": {
+        "molecular dynamics": 29,
+        "mean difference": 17
+    },
+    "MDA": {
+        "malondialdehyde": 118
+    },
+    "MDD": {
+        "major depressive disorder": 64
+    },
+    "MDMs": {
+        "monocyte-derived macrophages": 10
+    },
+    "MDR": {
+        "multidrug resistance": 42
+    },
+    "MDS": {
+        "myelodysplastic syndromes": 67,
+        "myelodysplastic syndrome": 59
+    },
+    "MDSCs": {
+        "myeloid-derived suppressor cells": 38,
+        "Myeloid-derived suppressor cells": 14
+    },
+    "MDSs": {
+        "myelodysplastic syndromes": 11
+    },
+    "MDV": {
+        "Marek's disease virus": 14
+    },
+    "ME/CFS": {
+        "myalgic encephalomyelitis/chronic fatigue syndrome": 13
+    },
+    "MEF": {
+        "mouse embryonic fibroblast": 12
+    },
+    "MEFs": {
+        "mouse embryonic fibroblasts": 23
+    },
+    "MEG3": {
+        "maternally expressed gene 3": 18
+    },
+    "MEK": {
+        "mitogen-activated protein kinase kinase": 10
+    },
+    "MELD": {
+        "model for end-stage liver disease": 13
+    },
+    "MES": {
+        "mesenchymal": 17
+    },
+    "MET": {
+        "mesenchymal-epithelial transition": 35,
+        "mesenchymal-to-epithelial transition": 12,
+        "mesenchymal to epithelial transition": 10
+    },
+    "METTL3": {
+        "methyltransferase-like 3": 25,
+        "methyltransferase like 3": 10
+    },
+    "MF": {
+        "myelofibrosis": 16
+    },
+    "MFS": {
+        "marfan syndrome": 14
+    },
+    "MG": {
+        "myasthenia gravis": 20
+    },
+    "MHC": {
+        "major histocompatibility complex": 48
+    },
+    "MI": {
+        "myocardial infarction": 371
+    },
+    "MIF": {
+        "migration inhibitory factor": 45
+    },
+    "MITF": {
+        "microphthalmia-associated transcription factor": 14
+    },
+    "ML": {
+        "machine learning": 31
+    },
+    "MLR": {
+        "mixed lymphocyte reaction": 36
+    },
+    "MM": {
+        "myeloma": 283,
+        "mesothelioma": 10
+    },
+    "MMP": {
+        "matrix metalloproteinase": 138,
+        "membrane potential": 36,
+        "matrix metalloproteinases": 16,
+        "matrix metallopeptidase": 10
+    },
+    "MMP-2": {
+        "matrix metalloproteinase-2": 28
+    },
+    "MMP-9": {
+        "matrix metalloproteinase-9": 33,
+        "matrix metalloproteinase 9": 11
+    },
+    "MMP13": {
+        "matrix metalloproteinase 13": 11
+    },
+    "MMP2": {
+        "matrix metalloproteinase 2": 20
+    },
+    "MMP9": {
+        "matrix metalloproteinase 9": 16
+    },
+    "MMPs": {
+        "matrix metalloproteinases": 115
+    },
+    "MMSCs": {
+        "mesenchymal stromal cells": 22
+    },
+    "MMSE": {
+        "mini-mental state examination": 11
+    },
+    "MNC": {
+        "mononuclear cells": 29
+    },
+    "MNCs": {
+        "mononuclear cells": 60
+    },
+    "MNPs": {
+        "magnetic nanoparticles": 17
+    },
+    "MNs": {
+        "motor neurons": 23
+    },
+    "MOG": {
+        "myelin oligodendrocyte glycoprotein": 11
+    },
+    "MOI": {
+        "multiplicity of infection": 22
+    },
+    "MPC": {
+        "mesenchymal progenitor cells": 12
+    },
+    "MPCs": {
+        "mesenchymal progenitor cells": 75,
+        "mesenchymal precursor cells": 12
+    },
+    "MPM": {
+        "malignant pleural mesothelioma": 22
+    },
+    "MPN": {
+        "myeloproliferative neoplasms": 11
+    },
+    "MPNs": {
+        "myeloproliferative neoplasms": 21
+    },
+    "MPO": {
+        "myeloperoxidase": 24
+    },
+    "MPs": {
+        "microparticles": 16
+    },
+    "MR": {
+        "magnetic resonance": 33,
+        "mendelian randomization": 31
+    },
+    "MRD": {
+        "minimal residual disease": 16
+    },
+    "MREs": {
+        "miRNA response elements": 13
+    },
+    "MRI": {
+        "magnetic resonance imaging": 276
+    },
+    "MS": {
+        "multiple sclerosis": 271,
+        "mass spectrometry": 50
+    },
+    "MSA": {
+        "multiple system atrophy": 24
+    },
+    "MSC": {
+        "mesenchymal stem cells": 1393,
+        "mesenchymal stem cell": 1149,
+        "mesenchymal stromal cells": 645,
+        "mesenchymal stromal cell": 240,
+        "mesenchymal stem/stromal cells": 96,
+        "mesenchymal stem/stromal cell": 50,
+        "mesenchymal stromal/stem cells": 44,
+        "mesenchymal stromal/stem cell": 25
+    },
+    "MSC-CM": {
+        "MSC-conditioned medium": 17,
+        "mesenchymal stem cell-conditioned medium": 11,
+        "MSC-conditioned media": 10
+    },
+    "MSC-EVs": {
+        "MSC-derived extracellular vesicles": 23,
+        "MSC-derived EVs": 22,
+        "mesenchymal stem cell-derived extracellular vesicles": 17
+    },
+    "MSC-Exos": {
+        "mesenchymal stem cell-derived exosomes": 14,
+        "MSC-derived exosomes": 12
+    },
+    "MSCs": {
+        "mesenchymal stem cells": 8791,
+        "mesenchymal stromal cells": 2135,
+        "mesenchymal stem/stromal cells": 437,
+        "mesenchymal stromal/stem cells": 177,
+        "marrow stromal cells": 50,
+        "mesenchymal stem cell": 48,
+        "multipotent stromal cells": 38,
+        "mesenchymal cells": 17,
+        "mesenchymal stem/progenitor cells": 17,
+        "mesenchymal stem (stromal) cells": 15,
+        "mesenchymal stromal stem cells": 10
+    },
+    "MSI": {
+        "microsatellite instability": 36
+    },
+    "MSNs": {
+        "mesoporous silica nanoparticles": 16
+    },
+    "MSPCs": {
+        "mesenchymal stem/progenitor cells": 10
+    },
+    "MTC": {
+        "medullary thyroid carcinoma": 10
+    },
+    "MTD": {
+        "maximum tolerated dose": 10
+    },
+    "MTT": {
+        "methyl thiazolyl tetrazolium": 12
+    },
+    "MTX": {
+        "methotrexate": 30
+    },
+    "MV": {
+        "measles virus": 13
+    },
+    "MVBs": {
+        "multivesicular bodies": 16
+    },
+    "MVD": {
+        "microvessel density": 15
+    },
+    "MVs": {
+        "microvesicles": 80
+    },
+    "MWM": {
+        "morris water maze": 15
+    },
+    "MeRIP": {
+        "methylated RNA immunoprecipitation": 11
+    },
+    "MenSCs": {
+        "mesenchymal stem cells": 15
+    },
+    "MetS": {
+        "metabolic syndrome": 32
+    },
+    "Mg": {
+        "magnesium": 25
+    },
+    "MnSOD": {
+        "manganese superoxide dismutase": 12
+    },
+    "Mtb": {
+        "mycobacterium tuberculosis": 33
+    },
+    "Muse": {
+        "multilineage-differentiating stress-enduring": 13
+    },
+    "MyD88": {
+        "myeloid differentiation factor 88": 10
+    },
+    "NAC": {
+        "N-acetylcysteine": 25,
+        "neoadjuvant chemotherapy": 10
+    },
+    "NAD+": {
+        "nicotinamide adenine dinucleotide": 10
+    },
+    "NAFLD": {
+        "nonalcoholic fatty liver disease": 89,
+        "non-alcoholic fatty liver disease": 60,
+        "Non-alcoholic fatty liver disease": 37
+    },
+    "NAR": {
+        "non-allergic rhinitis": 10
+    },
+    "NASH": {
+        "nonalcoholic steatohepatitis": 44,
+        "non-alcoholic steatohepatitis": 29
+    },
+    "NAc": {
+        "nucleus accumbens": 10
+    },
+    "NB": {
+        "neuroblastoma": 53
+    },
+    "NC": {
+        "negative control": 49,
+        "normal control": 29,
+        "neural crest": 12,
+        "normal controls": 12
+    },
+    "NCBI": {
+        "national center for biotechnology information": 11
+    },
+    "NDDs": {
+        "neurodevelopmental disorders": 12,
+        "neurodegenerative diseases": 11
+    },
+    "NDV": {
+        "newcastle disease virus": 18
+    },
+    "NDs": {
+        "neurodegenerative diseases": 18
+    },
+    "NEAT1": {
+        "nuclear paraspeckle assembly transcript 1": 25,
+        "nuclear-enriched abundant transcript 1": 10
+    },
+    "NEC": {
+        "necrotizing enterocolitis": 20
+    },
+    "NETs": {
+        "neutrophil extracellular traps": 29
+    },
+    "NF": {
+        "nuclear factor": 30,
+        "neurofilament": 13
+    },
+    "NF-kappaB": {
+        "nuclear factor-kappaB": 80,
+        "nuclear factor kappa b": 43,
+        "nuclear factor-kappa b": 34,
+        "nuclear factor kappaB": 33,
+        "nuclear factor kappa-light-chain-enhancer of activated b cells": 17,
+        "nuclear factor kappa-B": 10
+    },
+    "NF-κB": {
+        "nuclear factor-κB": 14
+    },
+    "NFTs": {
+        "neurofibrillary tangles": 10
+    },
+    "NFs": {
+        "normal fibroblasts": 17
+    },
+    "NGAL": {
+        "neutrophil gelatinase-associated lipocalin": 15
+    },
+    "NGF": {
+        "nerve growth factor": 80
+    },
+    "NGS": {
+        "next-generation sequencing": 112,
+        "next generation sequencing": 73,
+        "Next-generation sequencing": 19
+    },
+    "NHDFs": {
+        "normal human dermal fibroblasts": 12
+    },
+    "NHEJ": {
+        "non-homologous end joining": 10
+    },
+    "NHL": {
+        "non-Hodgkin lymphoma": 14
+    },
+    "NIR": {
+        "near-infrared": 28
+    },
+    "NK": {
+        "natural killer": 210
+    },
+    "NKT": {
+        "natural killer t": 14
+    },
+    "NMA": {
+        "network meta-analysis": 16
+    },
+    "NMD": {
+        "nonsense-mediated decay": 10
+    },
+    "NMOSD": {
+        "neuromyelitis optica spectrum disorder": 10
+    },
+    "NMR": {
+        "nuclear magnetic resonance": 23
+    },
+    "NO": {
+        "nitric oxide": 145
+    },
+    "NOA": {
+        "non-obstructive azoospermia": 12
+    },
+    "NOD": {
+        "non-obese diabetic": 11
+    },
+    "NOS": {
+        "newcastle-ottawa scale": 15,
+        "nitric oxide synthase": 13
+    },
+    "NP": {
+        "nucleus pulposus": 135,
+        "nanoparticle": 15
+    },
+    "NPC": {
+        "nasopharyngeal carcinoma": 184
+    },
+    "NPCs": {
+        "nucleus pulposus cells": 46,
+        "neural progenitor cells": 31
+    },
+    "NPV": {
+        "negative predictive value": 10
+    },
+    "NPY": {
+        "neuropeptide y": 18
+    },
+    "NPs": {
+        "nanoparticles": 101
+    },
+    "NRS": {
+        "numerical rating scale": 30,
+        "numeric rating scale": 27
+    },
+    "NS": {
+        "normal saline": 13
+    },
+    "NSAIDs": {
+        "nonsteroidal anti-inflammatory drugs": 12
+    },
+    "NSC": {
+        "neural stem cell": 19,
+        "neural stem cells": 12
+    },
+    "NSCLC": {
+        "non-small cell lung cancer": 455,
+        "non-small-cell lung cancer": 113,
+        "Non-small cell lung cancer": 91,
+        "Non-small-cell lung cancer": 26,
+        "non-small cell lung carcinoma": 17
+    },
+    "NSCs": {
+        "neural stem cells": 116
+    },
+    "NSE": {
+        "neuron-specific enolase": 38
+    },
+    "NT-3": {
+        "neurotrophin-3": 18
+    },
+    "NT-proBNP": {
+        "N-terminal pro-B-type natriuretic peptide": 10
+    },
+    "NTA": {
+        "nanoparticle tracking analysis": 72
+    },
+    "OA": {
+        "osteoarthritis": 903,
+        "osteoarthritic": 30
+    },
+    "OB": {
+        "osteoblast": 16
+    },
+    "OBs": {
+        "osteoblasts": 26
+    },
+    "OC": {
+        "ovarian cancer": 150,
+        "osteocalcin": 76,
+        "osteochondral": 12
+    },
+    "OCN": {
+        "osteocalcin": 167
+    },
+    "OCR": {
+        "oxygen consumption rate": 14
+    },
+    "OCT": {
+        "optical coherence tomography": 19
+    },
+    "OCT4": {
+        "octamer-binding transcription factor 4": 11
+    },
+    "OCs": {
+        "osteoclasts": 11
+    },
+    "OD": {
+        "osteogenic differentiation": 11
+    },
+    "ODI": {
+        "oswestry disability index": 13
+    },
+    "OECs": {
+        "olfactory ensheathing cells": 12
+    },
+    "OFC": {
+        "oral food challenge": 29
+    },
+    "OGD": {
+        "oxygen-glucose deprivation": 59,
+        "oxygen glucose deprivation": 12
+    },
+    "OGD/R": {
+        "oxygen-glucose deprivation/reoxygenation": 20
+    },
+    "OI": {
+        "osteogenesis imperfecta": 43
+    },
+    "OIM": {
+        "osteogenic induction medium": 12
+    },
+    "OIR": {
+        "oxygen-induced retinopathy": 11
+    },
+    "OIT": {
+        "oral immunotherapy": 57
+    },
+    "OLP": {
+        "oral lichen planus": 15
+    },
+    "OM": {
+        "osteogenic medium": 27
+    },
+    "ON": {
+        "osteonectin": 12,
+        "osteonecrosis": 11
+    },
+    "OP": {
+        "osteoporosis": 129,
+        "osteopontin": 13
+    },
+    "OPCs": {
+        "oligodendrocyte progenitor cells": 10
+    },
+    "OPG": {
+        "osteoprotegerin": 72
+    },
+    "OPN": {
+        "osteopontin": 155
+    },
+    "OR": {
+        "odds ratio": 112,
+        "odds ratios": 23
+    },
+    "ORF": {
+        "open reading frame": 10
+    },
+    "ORFs": {
+        "open reading frames": 14
+    },
+    "ORR": {
+        "objective response rate": 15,
+        "overall response rate": 10
+    },
+    "ORs": {
+        "odds ratios": 80
+    },
+    "OS": {
+        "overall survival": 563,
+        "osteosarcoma": 229,
+        "oxidative stress": 49
+    },
+    "OSA": {
+        "obstructive sleep apnea": 38
+    },
+    "OSCC": {
+        "oral squamous cell carcinoma": 187
+    },
+    "OSM": {
+        "oncostatin m": 24
+    },
+    "OSX": {
+        "osterix": 19
+    },
+    "OVA": {
+        "ovalbumin": 55
+    },
+    "OVs": {
+        "oncolytic viruses": 17
+    },
+    "OXPHOS": {
+        "oxidative phosphorylation": 14
+    },
+    "Osx": {
+        "osterix": 34
+    },
+    "OvCa": {
+        "ovarian cancer": 14
+    },
+    "PA": {
+        "palmitic acid": 31
+    },
+    "PAAD": {
+        "pancreatic adenocarcinoma": 31
+    },
+    "PAD": {
+        "peripheral arterial disease": 14,
+        "peripheral artery disease": 10
+    },
+    "PAH": {
+        "pulmonary arterial hypertension": 106
+    },
+    "PAI-1": {
+        "plasminogen activator inhibitor-1": 13
+    },
+    "PAR": {
+        "perennial allergic rhinitis": 22
+    },
+    "PAS": {
+        "periodic acid-Schiff": 11
+    },
+    "PASMCs": {
+        "pulmonary artery smooth muscle cells": 23
+    },
+    "PB": {
+        "peripheral blood": 70
+    },
+    "PBC": {
+        "primary biliary cholangitis": 16
+    },
+    "PBM": {
+        "photobiomodulation": 29
+    },
+    "PBMC": {
+        "peripheral blood mononuclear cells": 105,
+        "peripheral blood mononuclear cell": 45
+    },
+    "PBMCs": {
+        "peripheral blood mononuclear cells": 434
+    },
+    "PBS": {
+        "phosphate-buffered saline": 65,
+        "phosphate buffered saline": 17
+    },
+    "PC": {
+        "pancreatic cancer": 138,
+        "prostate cancer": 50
+    },
+    "PCA": {
+        "principal component analysis": 36
+    },
+    "PCD": {
+        "programmed cell death": 23
+    },
+    "PCGs": {
+        "protein-coding genes": 10
+    },
+    "PCI": {
+        "percutaneous coronary intervention": 30
+    },
+    "PCL": {
+        "polycaprolactone": 131,
+        "poly(epsilon-caprolactone)": 73,
+        "poly(e-caprolactone)": 12,
+        "poly-epsilon-caprolactone": 11,
+        "poly (epsilon-caprolactone)": 10
+    },
+    "PCNA": {
+        "proliferating cell nuclear antigen": 60
+    },
+    "PCOS": {
+        "polycystic ovary syndrome": 102,
+        "polycystic ovarian syndrome": 13
+    },
+    "PCR": {
+        "polymerase chain reaction": 201
+    },
+    "PCR-RFLP": {
+        "polymerase chain reaction-restriction fragment length polymorphism": 12
+    },
+    "PCSK9": {
+        "proprotein convertase subtilisin/kexin type 9": 20
+    },
+    "PCa": {
+        "prostate cancer": 344
+    },
+    "PCs": {
+        "pericytes": 14
+    },
+    "PD": {
+        "Parkinson's disease": 470,
+        "parkinson disease": 23,
+        "peritoneal dialysis": 19,
+        "pharmacodynamics": 12,
+        "progressive disease": 10,
+        "population doubling": 10
+    },
+    "PD-1": {
+        "programmed death-1": 14,
+        "programmed death 1": 13,
+        "programmed cell death 1": 12,
+        "programmed cell death-1": 11
+    },
+    "PD-L1": {
+        "programmed death-ligand 1": 43,
+        "programmed death ligand 1": 35,
+        "programmed cell death ligand 1": 23,
+        "programmed death ligand-1": 18
+    },
+    "PDA": {
+        "polydopamine": 17
+    },
+    "PDAC": {
+        "pancreatic ductal adenocarcinoma": 240
+    },
+    "PDCD4": {
+        "programmed cell death 4": 19
+    },
+    "PDE4": {
+        "phosphodiesterase 4": 10
+    },
+    "PDGF": {
+        "platelet-derived growth factor": 92,
+        "platelet derived growth factor": 15,
+        "Platelet-derived growth factor": 14
+    },
+    "PDGF-BB": {
+        "platelet-derived growth factor-BB": 23,
+        "platelet-derived growth factor BB": 15
+    },
+    "PDL": {
+        "periodontal ligament": 56
+    },
+    "PDLCs": {
+        "periodontal ligament cells": 10
+    },
+    "PDLSCs": {
+        "periodontal ligament stem cells": 107
+    },
+    "PDMS": {
+        "polydimethylsiloxane": 44
+    },
+    "PDR": {
+        "proliferative diabetic retinopathy": 13
+    },
+    "PDT": {
+        "photodynamic therapy": 22,
+        "population doubling time": 22
+    },
+    "PDX": {
+        "patient-derived xenograft": 24
+    },
+    "PDs": {
+        "population doublings": 11
+    },
+    "PE": {
+        "preeclampsia": 112
+    },
+    "PEDF": {
+        "pigment epithelium-derived factor": 24
+    },
+    "PEEK": {
+        "polyetheretherketone": 12
+    },
+    "PEG": {
+        "poly(ethylene glycol)": 76,
+        "polyethylene glycol": 49
+    },
+    "PEGDA": {
+        "poly(ethylene glycol) diacrylate": 10
+    },
+    "PEI": {
+        "polyethylenimine": 36,
+        "polyethyleneimine": 22
+    },
+    "PEMF": {
+        "pulsed electromagnetic field": 12
+    },
+    "PEMFs": {
+        "pulsed electromagnetic fields": 17
+    },
+    "PET": {
+        "positron emission tomography": 56
+    },
+    "PF": {
+        "pulmonary fibrosis": 32
+    },
+    "PFC": {
+        "prefrontal cortex": 24
+    },
+    "PFI": {
+        "progression-free interval": 12
+    },
+    "PFS": {
+        "progression-free survival": 131,
+        "progression free survival": 16
+    },
+    "PG": {
+        "prostaglandin": 11
+    },
+    "PGA": {
+        "polyglycolic acid": 11
+    },
+    "PGCs": {
+        "primordial germ cells": 16
+    },
+    "PGE(2)": {
+        "prostaglandin e(2)": 15
+    },
+    "PGE2": {
+        "prostaglandin e2": 120
+    },
+    "PH": {
+        "pulmonary hypertension": 39
+    },
+    "PHA": {
+        "phytohemagglutinin": 27
+    },
+    "PI": {
+        "propidium iodide": 16
+    },
+    "PI3K": {
+        "phosphatidylinositol 3-kinase": 78,
+        "phosphoinositide 3-kinase": 72
+    },
+    "PK": {
+        "pharmacokinetics": 30,
+        "pharmacokinetic": 12
+    },
+    "PKA": {
+        "protein kinase a": 35
+    },
+    "PKC": {
+        "protein kinase c": 49
+    },
+    "PKM2": {
+        "pyruvate kinase m2": 10
+    },
+    "PL": {
+        "platelet lysate": 62,
+        "placenta": 11
+    },
+    "PLA": {
+        "polylactic acid": 21,
+        "poly(lactic acid)": 16
+    },
+    "PLGA": {
+        "poly(lactic-co-glycolic acid)": 43,
+        "poly (lactic-co-glycolic acid)": 18
+    },
+    "PLLA": {
+        "poly(L-lactic acid)": 14,
+        "poly-L-lactic acid": 11
+    },
+    "PLWH": {
+        "people living with HIV": 10
+    },
+    "PM": {
+        "particulate matter": 18
+    },
+    "PMA": {
+        "phorbol 12-myristate 13-acetate": 10
+    },
+    "PMF": {
+        "primary myelofibrosis": 18
+    },
+    "PMOP": {
+        "postmenopausal osteoporosis": 10
+    },
+    "PMSCs": {
+        "placental mesenchymal stem cells": 10
+    },
+    "PN": {
+        "proneural": 10
+    },
+    "PNI": {
+        "peripheral nerve injury": 18
+    },
+    "PNIF": {
+        "peak nasal inspiratory flow": 17
+    },
+    "PNS": {
+        "peripheral nervous system": 15
+    },
+    "POAG": {
+        "primary open-angle glaucoma": 13
+    },
+    "POEM": {
+        "patient-oriented eczema measure": 38
+    },
+    "POF": {
+        "premature ovarian failure": 64
+    },
+    "POI": {
+        "premature ovarian insufficiency": 43,
+        "primary ovarian insufficiency": 23
+    },
+    "POP": {
+        "prolapse": 17
+    },
+    "POSTN": {
+        "periostin": 18
+    },
+    "PP-NRS": {
+        "peak pruritus numerical rating scale": 13
+    },
+    "PP2A": {
+        "phosphatase 2a": 12
+    },
+    "PPAR": {
+        "peroxisome proliferator-activated receptor": 38
+    },
+    "PPAR-gamma": {
+        "peroxisome proliferator-activated receptor-gamma": 13
+    },
+    "PPARgamma": {
+        "peroxisome proliferator-activated receptor gamma": 86,
+        "peroxisome proliferator-activated receptor-gamma": 17
+    },
+    "PPARs": {
+        "peroxisome proliferator-activated receptors": 11
+    },
+    "PPI": {
+        "protein-protein interaction": 529,
+        "Protein-protein interaction": 83,
+        "protein-protein interaction network": 13,
+        "protein-protein interactions": 11
+    },
+    "PPIs": {
+        "protein-protein interactions": 19
+    },
+    "PPV": {
+        "positive predictive value": 11
+    },
+    "PR": {
+        "progesterone receptor": 39,
+        "partial response": 20
+    },
+    "PRC2": {
+        "polycomb repressive complex 2": 22
+    },
+    "PRF": {
+        "platelet-rich fibrin": 10
+    },
+    "PRGs": {
+        "pyroptosis-related genes": 18
+    },
+    "PRL": {
+        "prolactin": 21
+    },
+    "PROs": {
+        "patient-reported outcomes": 17
+    },
+    "PRP": {
+        "platelet-rich plasma": 129,
+        "Platelet-rich plasma": 43,
+        "platelet rich plasma": 22
+    },
+    "PRRs": {
+        "pattern recognition receptors": 14
+    },
+    "PS": {
+        "polystyrene": 18
+    },
+    "PSA": {
+        "prostate-specific antigen": 47
+    },
+    "PSC": {
+        "pluripotent stem cell": 22,
+        "primary sclerosing cholangitis": 18
+    },
+    "PSCs": {
+        "pluripotent stem cells": 73
+    },
+    "PSMA": {
+        "prostate-specific membrane antigen": 21,
+        "Prostate-specific membrane antigen": 10
+    },
+    "PSP": {
+        "progressive supranuclear palsy": 12
+    },
+    "PTB": {
+        "pulmonary tuberculosis": 10
+    },
+    "PTC": {
+        "papillary thyroid carcinoma": 65,
+        "papillary thyroid cancer": 64
+    },
+    "PTEN": {
+        "phosphatase and tensin homolog": 98
+    },
+    "PTH": {
+        "parathyroid hormone": 62
+    },
+    "PTHrP": {
+        "parathyroid hormone-related protein": 22
+    },
+    "PTMs": {
+        "post-translational modifications": 26
+    },
+    "PTSD": {
+        "posttraumatic stress disorder": 21,
+        "post-traumatic stress disorder": 11
+    },
+    "PTT": {
+        "photothermal therapy": 12
+    },
+    "PTX": {
+        "paclitaxel": 50
+    },
+    "PTX3": {
+        "pentraxin 3": 12
+    },
+    "PU": {
+        "polyurethane": 25
+    },
+    "PUFA": {
+        "polyunsaturated fatty acids": 11
+    },
+    "PV": {
+        "polycythemia vera": 10
+    },
+    "PVA": {
+        "polyvinyl alcohol": 14
+    },
+    "PVR": {
+        "proliferative vitreoretinopathy": 10
+    },
+    "PVT1": {
+        "plasmacytoma variant translocation 1": 16
+    },
+    "PlGF": {
+        "placental growth factor": 18
+    },
+    "PsA": {
+        "psoriatic arthritis": 28
+    },
+    "QC": {
+        "quality control": 12
+    },
+    "QDs": {
+        "quantum dots": 25
+    },
+    "QOL": {
+        "quality of life": 43
+    },
+    "QoL": {
+        "quality of life": 113
+    },
+    "RA": {
+        "rheumatoid arthritis": 422,
+        "retinoic acid": 70
+    },
+    "RAAS": {
+        "renin-angiotensin-aldosterone system": 15
+    },
+    "RAGE": {
+        "receptor for advanced glycation end products": 12
+    },
+    "RANKL": {
+        "receptor activator of NF-kappaB ligand": 20
+    },
+    "RAS": {
+        "renin-angiotensin system": 37
+    },
+    "RB": {
+        "retinoblastoma": 38
+    },
+    "RBC": {
+        "red blood cell": 16
+    },
+    "RBCs": {
+        "red blood cells": 25
+    },
+    "RBP": {
+        "RNA-binding protein": 22,
+        "RNA binding protein": 12
+    },
+    "RBPs": {
+        "RNA-binding proteins": 129,
+        "RNA binding proteins": 31
+    },
+    "RCAT": {
+        "rhinitis control assessment test": 10
+    },
+    "RCC": {
+        "renal cell carcinoma": 154
+    },
+    "RCS": {
+        "royal college of surgeons": 10
+    },
+    "RCT": {
+        "randomized controlled trial": 19,
+        "randomized controlled trials": 15
+    },
+    "RCTs": {
+        "randomized controlled trials": 230,
+        "randomised controlled trials": 26,
+        "randomized clinical trials": 25
+    },
+    "RD": {
+        "risk difference": 10,
+        "retinal degeneration": 10
+    },
+    "RDEB": {
+        "recessive dystrophic epidermolysis bullosa": 17
+    },
+    "RES": {
+        "resveratrol": 10
+    },
+    "RF": {
+        "random forest": 30,
+        "rheumatoid factor": 14
+    },
+    "RFP": {
+        "red fluorescent protein": 13
+    },
+    "RFS": {
+        "recurrence-free survival": 34,
+        "relapse-free survival": 21
+    },
+    "RGC": {
+        "retinal ganglion cell": 13
+    },
+    "RGCs": {
+        "retinal ganglion cells": 27
+    },
+    "RGs": {
+        "reference genes": 14
+    },
+    "RIF": {
+        "recurrent implantation failure": 20,
+        "renal interstitial fibrosis": 10
+    },
+    "RIG-I": {
+        "retinoic acid-inducible gene i": 11
+    },
+    "RIP": {
+        "RNA immunoprecipitation": 260,
+        "RNA binding protein immunoprecipitation": 28,
+        "RNA-binding protein immunoprecipitation": 25
+    },
+    "RISC": {
+        "RNA-induced silencing complex": 61
+    },
+    "RMS": {
+        "rhabdomyosarcoma": 11
+    },
+    "RNA": {
+        "ribonucleic acid": 31
+    },
+    "RNA-Seq": {
+        "RNA sequencing": 36
+    },
+    "RNA-seq": {
+        "RNA sequencing": 130,
+        "RNA-sequencing": 37
+    },
+    "RNAi": {
+        "RNA interference": 237
+    },
+    "RNAseq": {
+        "RNA sequencing": 14
+    },
+    "RNP": {
+        "ribonucleoprotein": 22
+    },
+    "ROC": {
+        "receiver operating characteristic": 415,
+        "receiver operator characteristic": 21,
+        "receiver operating characteristics": 18,
+        "receiver-operating characteristic": 10
+    },
+    "ROCK": {
+        "Rho-associated kinase": 10
+    },
+    "ROP": {
+        "retinopathy of prematurity": 10
+    },
+    "ROS": {
+        "reactive oxygen species": 672
+    },
+    "RP": {
+        "retinitis pigmentosa": 46,
+        "radical prostatectomy": 11
+    },
+    "RPE": {
+        "retinal pigment epithelium": 60,
+        "retinal pigment epithelial": 26,
+        "retinal pigmented epithelium": 11
+    },
+    "RPL": {
+        "recurrent pregnancy loss": 10
+    },
+    "RQLQ": {
+        "rhinoconjunctivitis quality of life questionnaire": 61
+    },
+    "RR": {
+        "relative risk": 25,
+        "risk ratio": 24
+    },
+    "RRA": {
+        "rank aggregation": 14
+    },
+    "RRs": {
+        "risk ratios": 13
+    },
+    "RSA": {
+        "recurrent spontaneous abortion": 11
+    },
+    "RSV": {
+        "respiratory syncytial virus": 34,
+        "resveratrol": 12
+    },
+    "RT": {
+        "radiotherapy": 24,
+        "reverse transcription": 23,
+        "reverse transcriptase": 21
+    },
+    "RT-PCR": {
+        "reverse transcription polymerase chain reaction": 90,
+        "reverse transcription-polymerase chain reaction": 89,
+        "real-time polymerase chain reaction": 55,
+        "reverse transcriptase-polymerase chain reaction": 34,
+        "reverse transcriptase polymerase chain reaction": 20,
+        "reverse-transcription polymerase chain reaction": 16,
+        "Real-time polymerase chain reaction": 11
+    },
+    "RT-q": {
+        "reverse transcription-quantitative": 27
+    },
+    "RT-qPCR": {
+        "reverse transcription-quantitative polymerase chain reaction": 108,
+        "real-time quantitative polymerase chain reaction": 60,
+        "reverse transcription quantitative polymerase chain reaction": 22,
+        "Real-time quantitative polymerase chain reaction": 14,
+        "reverse transcription-quantitative PCR": 12,
+        "real-time quantitative PCR": 10
+    },
+    "RTK": {
+        "receptor tyrosine kinase": 13
+    },
+    "RTKs": {
+        "receptor tyrosine kinases": 17
+    },
+    "RTT": {
+        "rett syndrome": 17
+    },
+    "RV": {
+        "rhinovirus": 11,
+        "right ventricle": 11
+    },
+    "Rb": {
+        "retinoblastoma": 11
+    },
+    "S1P": {
+        "sphingosine-1-phosphate": 32,
+        "sphingosine 1-phosphate": 12
+    },
+    "SA": {
+        "staphylococcus aureus": 10
+    },
+    "SAA": {
+        "severe aplastic anemia": 22
+    },
+    "SAEs": {
+        "serious adverse events": 12
+    },
+    "SAH": {
+        "subarachnoid hemorrhage": 33
+    },
+    "SAHA": {
+        "suberoylanilide hydroxamic acid": 13
+    },
+    "SAP": {
+        "severe acute pancreatitis": 23
+    },
+    "SAR": {
+        "seasonal allergic rhinitis": 39
+    },
+    "SARS-CoV-2": {
+        "severe acute respiratory syndrome coronavirus 2": 166,
+        "severe acute respiratory syndrome coronavirus-2": 22
+    },
+    "SASP": {
+        "senescence-associated secretory phenotype": 64
+    },
+    "SAT": {
+        "subcutaneous adipose tissue": 10
+    },
+    "SBF": {
+        "simulated body fluid": 29
+    },
+    "SC": {
+        "stem cell": 28,
+        "stratum corneum": 16,
+        "stem cells": 12,
+        "subcutaneous": 11
+    },
+    "SCA": {
+        "spinocerebellar ataxia": 11
+    },
+    "SCA3": {
+        "spinocerebellar ataxia type 3": 13
+    },
+    "SCAP": {
+        "stem cells from apical papilla": 15
+    },
+    "SCC": {
+        "squamous cell carcinoma": 43
+    },
+    "SCD": {
+        "sickle cell disease": 23,
+        "sudden cardiac death": 10
+    },
+    "SCF": {
+        "stem cell factor": 56
+    },
+    "SCI": {
+        "spinal cord injury": 323
+    },
+    "SCID": {
+        "severe combined immunodeficiency": 25,
+        "severe combined immunodeficient": 17
+    },
+    "SCIT": {
+        "subcutaneous immunotherapy": 50
+    },
+    "SCLC": {
+        "small cell lung cancer": 35
+    },
+    "SCORAD": {
+        "SCORing atopic dermatitis": 42,
+        "scoring atopic dermatitis": 40,
+        "scoring of atopic dermatitis": 14
+    },
+    "SCT": {
+        "stem cell therapy": 18,
+        "stem cell transplantation": 11
+    },
+    "SCZ": {
+        "schizophrenia": 33
+    },
+    "SCr": {
+        "serum creatinine": 16
+    },
+    "SCs": {
+        "schwann cells": 13
+    },
+    "SD": {
+        "sprague-dawley": 40,
+        "sprague dawley": 22,
+        "standard deviation": 11
+    },
+    "SDF": {
+        "stromal cell-derived factor": 18
+    },
+    "SDF-1": {
+        "stromal cell-derived factor-1": 59,
+        "stromal cell-derived factor 1": 23,
+        "stromal-derived factor-1": 15,
+        "stromal derived factor-1": 11,
+        "stromal cell derived factor-1": 10
+    },
+    "SDF-1alpha": {
+        "stromal cell-derived factor-1alpha": 21
+    },
+    "SDS": {
+        "sodium dodecyl sulfate": 12
+    },
+    "SE": {
+        "status epilepticus": 14
+    },
+    "SEC": {
+        "size exclusion chromatography": 12
+    },
+    "SEM": {
+        "scanning electron microscopy": 178,
+        "scanning electron microscope": 47
+    },
+    "SF": {
+        "silk fibroin": 50,
+        "synovial fluid": 38
+    },
+    "SFM": {
+        "serum-free medium": 14
+    },
+    "SFN": {
+        "sulforaphane": 14
+    },
+    "SHH": {
+        "sonic hedgehog": 39
+    },
+    "SIRT1": {
+        "sirtuin 1": 57,
+        "silent information regulator 1": 12
+    },
+    "SIRT3": {
+        "sirtuin 3": 11
+    },
+    "SIS": {
+        "small intestinal submucosa": 10
+    },
+    "SKCM": {
+        "skin cutaneous melanoma": 15
+    },
+    "SLE": {
+        "systemic lupus erythematosus": 255
+    },
+    "SLEDAI": {
+        "SLE disease activity index": 11
+    },
+    "SLIT": {
+        "sublingual immunotherapy": 120
+    },
+    "SM": {
+        "smooth muscle": 12
+    },
+    "SMA": {
+        "spinal muscular atrophy": 44,
+        "alpha-smooth muscle actin": 16
+    },
+    "SMC": {
+        "smooth muscle cell": 35,
+        "smooth muscle cells": 18
+    },
+    "SMCs": {
+        "smooth muscle cells": 24
+    },
+    "SMD": {
+        "standardized mean difference": 37
+    },
+    "SMN": {
+        "survival motor neuron": 11
+    },
+    "SN": {
+        "substantia nigra": 27
+    },
+    "SNHG12": {
+        "small nucleolar RNA host gene 12": 10
+    },
+    "SNHG16": {
+        "small nucleolar RNA host gene 16": 11
+    },
+    "SNP": {
+        "single nucleotide polymorphism": 57,
+        "single-nucleotide polymorphism": 26
+    },
+    "SNPs": {
+        "single nucleotide polymorphisms": 79,
+        "single-nucleotide polymorphisms": 35
+    },
+    "SNpc": {
+        "substantia nigra pars compacta": 14
+    },
+    "SOCS1": {
+        "suppressor of cytokine signaling 1": 14
+    },
+    "SOCS3": {
+        "suppressor of cytokine signaling 3": 12
+    },
+    "SOD": {
+        "superoxide dismutase": 115
+    },
+    "SOD1": {
+        "superoxide dismutase 1": 16
+    },
+    "SOD2": {
+        "superoxide dismutase 2": 20
+    },
+    "SP": {
+        "side population": 27,
+        "substance p": 26
+    },
+    "SP1": {
+        "specificity protein 1": 20
+    },
+    "SPIO": {
+        "superparamagnetic iron oxide": 40
+    },
+    "SPP1": {
+        "secreted phosphoprotein 1": 14
+    },
+    "SPR": {
+        "surface plasmon resonance": 18
+    },
+    "SPT": {
+        "skin prick test": 20
+    },
+    "SR": {
+        "sinus rhythm": 10
+    },
+    "SRF": {
+        "serum response factor": 22
+    },
+    "SS": {
+        "s syndrome": 35
+    },
+    "SSEA": {
+        "stage-specific embryonic antigen": 12
+    },
+    "SSc": {
+        "systemic sclerosis": 97
+    },
+    "STAD": {
+        "stomach adenocarcinoma": 36
+    },
+    "STR": {
+        "short tandem repeat": 16
+    },
+    "STZ": {
+        "streptozotocin": 92
+    },
+    "SUI": {
+        "stress urinary incontinence": 18
+    },
+    "SVF": {
+        "stromal vascular fraction": 178
+    },
+    "SVM": {
+        "support vector machine": 42
+    },
+    "SVM-RFE": {
+        "support vector machine-recursive feature elimination": 16
+    },
+    "SVZ": {
+        "subventricular zone": 24
+    },
+    "SZ": {
+        "schizophrenia": 16
+    },
+    "Scx": {
+        "scleraxis": 10
+    },
+    "Shh": {
+        "sonic hedgehog": 28
+    },
+    "Si": {
+        "silicon": 10
+    },
+    "Sirt1": {
+        "sirtuin 1": 11
+    },
+    "Sr": {
+        "strontium": 11
+    },
+    "T-ALL": {
+        "T-cell acute lymphoblastic leukemia": 21
+    },
+    "T-MSCs": {
+        "tonsil-derived MSCs": 10
+    },
+    "T1D": {
+        "type 1 diabetes": 71
+    },
+    "T1DM": {
+        "type 1 diabetes mellitus": 43
+    },
+    "T2D": {
+        "type 2 diabetes": 100
+    },
+    "T2DM": {
+        "type 2 diabetes mellitus": 174
+    },
+    "TAA": {
+        "thioacetamide": 21,
+        "thoracic aortic aneurysm": 10
+    },
+    "TAC": {
+        "transverse aortic constriction": 15,
+        "total antioxidant capacity": 11
+    },
+    "TALENs": {
+        "transcription activator-like effector nucleases": 13
+    },
+    "TAMs": {
+        "tumor-associated macrophages": 59,
+        "Tumor-associated macrophages": 24
+    },
+    "TB": {
+        "tuberculosis": 69
+    },
+    "TBI": {
+        "traumatic brain injury": 138,
+        "total body irradiation": 15
+    },
+    "TC": {
+        "thyroid cancer": 29,
+        "total cholesterol": 23
+    },
+    "TCA": {
+        "tricarboxylic acid": 17
+    },
+    "TCGA": {
+        "the cancer genome atlas": 733
+    },
+    "TCM": {
+        "traditional chinese medicine": 67
+    },
+    "TCP": {
+        "tissue culture plastic": 14,
+        "beta-tricalcium phosphate": 13,
+        "tissue culture plate": 11,
+        "tissue culture polystyrene": 10,
+        "tricalcium phosphate": 10
+    },
+    "TCPS": {
+        "tissue culture polystyrene": 32
+    },
+    "TCR": {
+        "t cell receptor": 25,
+        "T-cell receptor": 13
+    },
+    "TCS": {
+        "topical corticosteroids": 53,
+        "topical corticosteroid": 19
+    },
+    "TCs": {
+        "telocytes": 10
+    },
+    "TDP-43": {
+        "TAR DNA-binding protein 43": 10
+    },
+    "TE": {
+        "tissue engineering": 62
+    },
+    "TEAEs": {
+        "treatment-emergent adverse events": 28
+    },
+    "TECs": {
+        "tubular epithelial cells": 16
+    },
+    "TEER": {
+        "transendothelial electrical resistance": 10
+    },
+    "TEM": {
+        "transmission electron microscopy": 145,
+        "transmission electron microscope": 32
+    },
+    "TERT": {
+        "telomerase reverse transcriptase": 16
+    },
+    "TEWL": {
+        "transepidermal water loss": 40
+    },
+    "TEs": {
+        "transposable elements": 24
+    },
+    "TF": {
+        "transcription factor": 118,
+        "tissue factor": 30,
+        "transcription factors": 22
+    },
+    "TFs": {
+        "transcription factors": 227
+    },
+    "TG": {
+        "triglyceride": 43
+    },
+    "TGF": {
+        "transforming growth factor": 211
+    },
+    "TGF-beta": {
+        "transforming growth factor-beta": 118,
+        "transforming growth factor beta": 47
+    },
+    "TGF-beta1": {
+        "transforming growth factor-beta1": 84,
+        "transforming growth factor beta1": 33,
+        "transforming growth factor beta 1": 16,
+        "transforming growth factor-beta 1": 10
+    },
+    "TGF-beta3": {
+        "transforming growth factor-beta3": 11
+    },
+    "TGF-β": {
+        "transforming growth factor-β": 10
+    },
+    "TGF-β1": {
+        "transforming growth factor-β1": 11
+    },
+    "TGFbeta": {
+        "transforming growth factor beta": 35,
+        "transforming growth factor-beta": 11
+    },
+    "TGFbeta1": {
+        "transforming growth factor beta1": 12
+    },
+    "TH": {
+        "tyrosine hydroxylase": 51
+    },
+    "THA": {
+        "total hip arthroplasty": 12
+    },
+    "THCA": {
+        "thyroid carcinoma": 12,
+        "thyroid cancer": 10
+    },
+    "TILs": {
+        "tumor-infiltrating lymphocytes": 16
+    },
+    "TIME": {
+        "tumor immune microenvironment": 17
+    },
+    "TIMER": {
+        "tumor immune estimation resource": 28
+    },
+    "TJs": {
+        "tight junctions": 11
+    },
+    "TKA": {
+        "total knee arthroplasty": 11
+    },
+    "TKI": {
+        "tyrosine kinase inhibitor": 36,
+        "tyrosine kinase inhibitors": 12
+    },
+    "TKIs": {
+        "tyrosine kinase inhibitors": 59
+    },
+    "TLE": {
+        "temporal lobe epilepsy": 18
+    },
+    "TLR": {
+        "Toll-like receptor": 48,
+        "toll-like receptor": 29,
+        "Toll-like receptors": 18
+    },
+    "TLR2": {
+        "Toll-like receptor 2": 13
+    },
+    "TLR4": {
+        "Toll-like receptor 4": 59,
+        "toll-like receptor 4": 44
+    },
+    "TLRs": {
+        "Toll-like receptors": 64,
+        "toll-like receptors": 20
+    },
+    "TM": {
+        "trabecular meshwork": 15
+    },
+    "TMA": {
+        "tissue microarray": 21
+    },
+    "TMB": {
+        "tumor mutation burden": 34,
+        "tumor mutational burden": 31
+    },
+    "TME": {
+        "tumor microenvironment": 364,
+        "tumour microenvironment": 35
+    },
+    "TMJ": {
+        "temporomandibular joint": 22
+    },
+    "TMSCs": {
+        "tonsil-derived mesenchymal stem cells": 10
+    },
+    "TMZ": {
+        "temozolomide": 60
+    },
+    "TNBC": {
+        "triple-negative breast cancer": 138,
+        "Triple-negative breast cancer": 92,
+        "triple negative breast cancer": 70
+    },
+    "TNF": {
+        "tumor necrosis factor": 220,
+        "tumour necrosis factor": 35
+    },
+    "TNF-alpha": {
+        "tumor necrosis factor-alpha": 188,
+        "tumor necrosis factor alpha": 86,
+        "tumour necrosis factor-alpha": 14
+    },
+    "TNF-α": {
+        "tumor necrosis factor-α": 24
+    },
+    "TNFalpha": {
+        "tumor necrosis factor alpha": 44,
+        "tumor necrosis factor-alpha": 15
+    },
+    "TNM": {
+        "tumor-node-metastasis": 19
+    },
+    "TNSS": {
+        "total nasal symptom score": 92,
+        "total nasal symptom scores": 16
+    },
+    "TNTs": {
+        "tunneling nanotubes": 11
+    },
+    "TP53": {
+        "tumor protein p53": 11
+    },
+    "TPO": {
+        "thrombopoietin": 20
+    },
+    "TRAIL": {
+        "tumor necrosis factor-related apoptosis-inducing ligand": 48,
+        "TNF-related apoptosis-inducing ligand": 18
+    },
+    "TRAP": {
+        "tartrate-resistant acid phosphatase": 19
+    },
+    "TRIM": {
+        "tripartite motif": 10
+    },
+    "TRP": {
+        "transient receptor potential": 15
+    },
+    "TSA": {
+        "trichostatin a": 39
+    },
+    "TSC": {
+        "tuberous sclerosis complex": 17
+    },
+    "TSCC": {
+        "tongue squamous cell carcinoma": 25
+    },
+    "TSH": {
+        "thyroid-stimulating hormone": 13
+    },
+    "TSLP": {
+        "thymic stromal lymphopoietin": 24
+    },
+    "TSP-1": {
+        "thrombospondin-1": 14
+    },
+    "TTP": {
+        "tristetraprolin": 11
+    },
+    "TUNEL": {
+        "transferase dUTP nick end labeling": 20
+    },
+    "TXNIP": {
+        "thioredoxin-interacting protein": 13
+    },
+    "Th": {
+        "t helper": 33,
+        "T-helper": 10
+    },
+    "Th17": {
+        "t helper 17": 34
+    },
+    "Th2": {
+        "t helper 2": 11
+    },
+    "Ti": {
+        "titanium": 79
+    },
+    "Tregs": {
+        "t regulatory cells": 10
+    },
+    "UA": {
+        "uric acid": 13
+    },
+    "UC": {
+        "umbilical cord": 163,
+        "ulcerative colitis": 109,
+        "urothelial carcinoma": 14
+    },
+    "UC-MSC": {
+        "umbilical cord mesenchymal stem cells": 13
+    },
+    "UC-MSCs": {
+        "umbilical cord-derived mesenchymal stem cells": 58,
+        "umbilical cord mesenchymal stem cells": 57,
+        "umbilical cord-derived MSCs": 41,
+        "umbilical cord-derived mesenchymal stromal cells": 20,
+        "umbilical cord MSCs": 18
+    },
+    "UCA1": {
+        "urothelial carcinoma-associated 1": 12
+    },
+    "UCB": {
+        "umbilical cord blood": 210
+    },
+    "UCB-MSCs": {
+        "umbilical cord blood-derived mesenchymal stem cells": 32
+    },
+    "UCBMSCs": {
+        "umbilical cord blood-derived mesenchymal stem cells": 11
+    },
+    "UCEC": {
+        "uterine corpus endometrial carcinoma": 19
+    },
+    "UCMSCs": {
+        "umbilical cord mesenchymal stem cells": 53,
+        "umbilical cord-derived MSCs": 15,
+        "umbilical cord-derived mesenchymal stem cells": 13
+    },
+    "UCP1": {
+        "uncoupling protein 1": 12
+    },
+    "UM": {
+        "uveal melanoma": 19
+    },
+    "UPR": {
+        "unfolded protein response": 63
+    },
+    "UPS": {
+        "ubiquitin-proteasome system": 12
+    },
+    "US": {
+        "ultrasound": 16
+    },
+    "USCs": {
+        "urine-derived stem cells": 10
+    },
+    "UTR": {
+        "untranslated region": 123,
+        "3'-untranslated region": 104
+    },
+    "UTRs": {
+        "untranslated regions": 34
+    },
+    "UUO": {
+        "ureteral obstruction": 38
+    },
+    "UV": {
+        "ultraviolet": 32
+    },
+    "UVA": {
+        "ultraviolet a": 11
+    },
+    "VAS": {
+        "visual analog scale": 101,
+        "visual analogue scale": 66
+    },
+    "VAT": {
+        "visceral adipose tissue": 12
+    },
+    "VC": {
+        "vascular calcification": 15
+    },
+    "VCAM-1": {
+        "vascular cell adhesion molecule-1": 24,
+        "vascular cell adhesion molecule 1": 15
+    },
+    "VD": {
+        "vitamin d": 15
+    },
+    "VDR": {
+        "vitamin d receptor": 33
+    },
+    "VE": {
+        "vascular endothelial": 13
+    },
+    "VECs": {
+        "vascular endothelial cells": 14
+    },
+    "VEGF": {
+        "vascular endothelial growth factor": 617
+    },
+    "VEGF-A": {
+        "vascular endothelial growth factor a": 22,
+        "vascular endothelial growth factor-A": 14
+    },
+    "VEGFA": {
+        "vascular endothelial growth factor a": 68
+    },
+    "VEGFR2": {
+        "vascular endothelial growth factor receptor 2": 10
+    },
+    "VHL": {
+        "von hippel-lindau": 15
+    },
+    "VM": {
+        "vasculogenic mimicry": 23
+    },
+    "VPA": {
+        "valproic acid": 42
+    },
+    "VSELs": {
+        "very small embryonic-like stem cells": 16
+    },
+    "VSMC": {
+        "vascular smooth muscle cell": 30
+    },
+    "VSMCs": {
+        "vascular smooth muscle cells": 132
+    },
+    "VTE": {
+        "venous thromboembolism": 20
+    },
+    "VWF": {
+        "von willebrand factor": 20
+    },
+    "VaD": {
+        "vascular dementia": 13
+    },
+    "WAT": {
+        "white adipose tissue": 47
+    },
+    "WB": {
+        "western blot": 95,
+        "western blotting": 58
+    },
+    "WBC": {
+        "white blood cell": 19
+    },
+    "WES": {
+        "whole exome sequencing": 21,
+        "whole-exome sequencing": 12
+    },
+    "WGCNA": {
+        "weighted gene co-expression network analysis": 290,
+        "weighted correlation network analysis": 50,
+        "weighted gene Co-expression network analysis": 33,
+        "weighted gene coexpression network analysis": 28,
+        "weighted gene correlation network analysis": 14
+    },
+    "WHO": {
+        "world health organization": 49
+    },
+    "WJ": {
+        "Wharton's jelly": 100
+    },
+    "WJ-MSCs": {
+        "Wharton's jelly mesenchymal stem cells": 30,
+        "Wharton's jelly-derived mesenchymal stem cells": 29,
+        "Wharton's jelly-derived MSCs": 12
+    },
+    "WJMSCs": {
+        "Wharton's jelly mesenchymal stem cells": 16
+    },
+    "WMD": {
+        "weighted mean difference": 14
+    },
+    "WS": {
+        "werner syndrome": 13
+    },
+    "WT": {
+        "wild-type": 152,
+        "wild type": 26,
+        "wilms tumor": 14,
+        "Wild-type": 10
+    },
+    "XIAP": {
+        "X-linked inhibitor of apoptosis protein": 20
+    },
+    "XIST": {
+        "X-inactive specific transcript": 17
+    },
+    "XPS": {
+        "X-ray photoelectron spectroscopy": 21
+    },
+    "XRD": {
+        "X-ray diffraction": 26
+    },
+    "YAP": {
+        "Yes-associated protein": 50,
+        "yes-associated protein": 15
+    },
+    "YAP1": {
+        "Yes-associated protein 1": 16
+    },
+    "YY1": {
+        "yin yang 1": 17
+    },
+    "ZIKV": {
+        "zika virus": 36
+    },
+    "Zn": {
+        "zinc": 11
+    },
+    "aGVHD": {
+        "acute graft-versus-host disease": 49,
+        "acute GVHD": 17
+    },
+    "aGvHD": {
+        "acute graft-versus-host disease": 12
+    },
+    "allo-HSCT": {
+        "allogeneic hematopoietic stem cell transplantation": 31
+    },
+    "alpha-SMA": {
+        "alpha-smooth muscle actin": 80,
+        "alpha smooth muscle actin": 13
+    },
+    "alpha-syn": {
+        "alpha-synuclein": 10
+    },
+    "bFGF": {
+        "basic fibroblast growth factor": 167
+    },
+    "bHLH": {
+        "basic helix-loop-helix": 12
+    },
+    "beta-TCP": {
+        "beta-tricalcium phosphate": 66
+    },
+    "cAD": {
+        "canine atopic dermatitis": 20
+    },
+    "cAMP": {
+        "cyclic adenosine monophosphate": 29
+    },
+    "cGMP": {
+        "current good manufacturing practice": 10
+    },
+    "cGVHD": {
+        "chronic graft-versus-host disease": 14
+    },
+    "cSCC": {
+        "cutaneous squamous cell carcinoma": 23
+    },
+    "cTnI": {
+        "cardiac troponin i": 23
+    },
+    "cTnT": {
+        "cardiac troponin t": 19
+    },
+    "ccRCC": {
+        "clear cell renal cell carcinoma": 141
+    },
+    "cccDNA": {
+        "closed circular DNA": 14
+    },
+    "ce": {
+        "competing endogenous": 13
+    },
+    "ceRNA": {
+        "competing endogenous RNA": 587,
+        "competitive endogenous RNA": 250,
+        "competing endogenous RNAs": 39
+    },
+    "ceRNAs": {
+        "competing endogenous RNAs": 110,
+        "competitive endogenous RNAs": 48
+    },
+    "cfDNA": {
+        "cell-free DNA": 13
+    },
+    "circRNA": {
+        "circular RNA": 26
+    },
+    "circRNAs": {
+        "circular RNAs": 92
+    },
+    "co-IP": {
+        "co-immunoprecipitation": 10
+    },
+    "ctDNA": {
+        "circulating tumor DNA": 15
+    },
+    "ddPCR": {
+        "droplet digital PCR": 13
+    },
+    "dsRNA": {
+        "double-stranded RNA": 26
+    },
+    "eGFP": {
+        "enhanced green fluorescent protein": 24
+    },
+    "eGFR": {
+        "estimated glomerular filtration rate": 26
+    },
+    "eMSCs": {
+        "endometrial mesenchymal stem cells": 10
+    },
+    "eNOS": {
+        "endothelial nitric oxide synthase": 42
+    },
+    "eQTL": {
+        "expression quantitative trait loci": 23
+    },
+    "eRNAs": {
+        "enhancer RNAs": 13
+    },
+    "hACs": {
+        "human articular chondrocytes": 10
+    },
+    "hADMSCs": {
+        "human adipose-derived mesenchymal stem cells": 23
+    },
+    "hADSCs": {
+        "human adipose-derived stem cells": 68,
+        "human adipose-derived mesenchymal stem cells": 40,
+        "human adipose tissue-derived mesenchymal stem cells": 11
+    },
+    "hAECs": {
+        "human amniotic epithelial cells": 16
+    },
+    "hAMSCs": {
+        "human amniotic mesenchymal stem cells": 57,
+        "human adipose-derived mesenchymal stem cells": 21,
+        "human amniotic mesenchymal stromal cells": 18,
+        "human adipose tissue-derived mesenchymal stem cells": 11,
+        "human amnion-derived mesenchymal stem cells": 10
+    },
+    "hASCs": {
+        "human adipose-derived stem cells": 56,
+        "human adipose-derived mesenchymal stem cells": 31,
+        "human adipose tissue-derived mesenchymal stem cells": 24,
+        "human ASCs": 11
+    },
+    "hAT-MSCs": {
+        "human adipose tissue-derived mesenchymal stem cells": 14
+    },
+    "hBM": {
+        "human bone marrow": 21
+    },
+    "hBM-MSCs": {
+        "human bone marrow-derived mesenchymal stem cells": 56,
+        "human bone marrow mesenchymal stem cells": 52,
+        "human bone marrow-derived mesenchymal stromal cells": 15,
+        "human bone marrow-mesenchymal stem cells": 11,
+        "human bone marrow-derived MSCs": 10,
+        "human bone marrow MSCs": 10
+    },
+    "hBMMSCs": {
+        "human bone marrow mesenchymal stem cells": 35,
+        "human bone marrow-derived mesenchymal stem cells": 10
+    },
+    "hBMSC": {
+        "human bone marrow stromal cells": 15
+    },
+    "hBMSCs": {
+        "human bone marrow mesenchymal stem cells": 161,
+        "human bone marrow-derived mesenchymal stem cells": 100,
+        "human bone marrow stromal cells": 86,
+        "human bone mesenchymal stem cells": 45,
+        "human BMSCs": 29,
+        "human bone marrow stem cells": 23,
+        "human bone marrow-derived mesenchymal stromal cells": 13,
+        "human bone marrow MSCs": 11,
+        "human bone marrow-derived MSCs": 11
+    },
+    "hDPSCs": {
+        "human dental pulp stem cells": 44
+    },
+    "hES": {
+        "human embryonic stem": 50
+    },
+    "hESC": {
+        "human embryonic stem cell": 116,
+        "human embryonic stem cells": 52
+    },
+    "hESCs": {
+        "human embryonic stem cells": 239
+    },
+    "hGMSCs": {
+        "human gingival mesenchymal stem cells": 13
+    },
+    "hMSC": {
+        "human mesenchymal stem cells": 280,
+        "human mesenchymal stem cell": 170,
+        "human mesenchymal stromal cells": 46,
+        "human MSC": 44,
+        "human mesenchymal stromal cell": 19,
+        "human bone marrow-derived mesenchymal stem cells": 10
+    },
+    "hMSCs": {
+        "human mesenchymal stem cells": 1801,
+        "human MSCs": 197,
+        "human mesenchymal stromal cells": 169,
+        "human bone marrow-derived mesenchymal stem cells": 98,
+        "human bone marrow mesenchymal stem cells": 71,
+        "human mesenchymal stem/stromal cells": 30,
+        "human mesenchymal stem cell": 16,
+        "human mesenchymal stromal/stem cells": 13,
+        "human bone marrow-derived MSCs": 11,
+        "human bone marrow-derived mesenchymal stromal cells": 11
+    },
+    "hPDLSCs": {
+        "human periodontal ligament stem cells": 25
+    },
+    "hPL": {
+        "human platelet lysate": 37
+    },
+    "hPMSCs": {
+        "human placenta-derived mesenchymal stem cells": 17
+    },
+    "hPSC": {
+        "human pluripotent stem cell": 33,
+        "human pluripotent stem cells": 13
+    },
+    "hPSCs": {
+        "human pluripotent stem cells": 123
+    },
+    "hTERT": {
+        "human telomerase reverse transcriptase": 37
+    },
+    "hUC": {
+        "human umbilical cord": 20
+    },
+    "hUC-MSC": {
+        "human umbilical cord mesenchymal stem cell": 14
+    },
+    "hUC-MSCs": {
+        "human umbilical cord mesenchymal stem cells": 111,
+        "human umbilical cord-derived mesenchymal stem cells": 71,
+        "human umbilical cord-derived MSCs": 19,
+        "human umbilical cord MSCs": 14
+    },
+    "hUCB": {
+        "human umbilical cord blood": 18
+    },
+    "hUCB-MSCs": {
+        "human umbilical cord blood-derived mesenchymal stem cells": 46,
+        "human umbilical cord blood-derived MSCs": 23,
+        "human umbilical cord blood mesenchymal stem cells": 17
+    },
+    "hUCMSC": {
+        "human umbilical cord mesenchymal stem cell": 12,
+        "human umbilical cord mesenchymal stem cells": 10
+    },
+    "hUCMSCs": {
+        "human umbilical cord mesenchymal stem cells": 127,
+        "human umbilical cord-derived mesenchymal stem cells": 17,
+        "human umbilical cord MSCs": 11,
+        "human umbilical cord mesenchymal stromal cells": 10
+    },
+    "hUMSCs": {
+        "human umbilical cord mesenchymal stem cells": 16
+    },
+    "hiPS": {
+        "human induced pluripotent stem": 17
+    },
+    "hiPSC": {
+        "human induced pluripotent stem cell": 103,
+        "human induced pluripotent stem cells": 20
+    },
+    "hiPSC-CMs": {
+        "human induced pluripotent stem cell-derived cardiomyocytes": 25
+    },
+    "hiPSCs": {
+        "human induced pluripotent stem cells": 223,
+        "human-induced pluripotent stem cells": 47
+    },
+    "hs-CRP": {
+        "high-sensitivity C-reactive protein": 11
+    },
+    "hsa": {
+        "homo sapiens": 18
+    },
+    "hucMSC": {
+        "human umbilical cord mesenchymal stem cell": 10
+    },
+    "hucMSCs": {
+        "human umbilical cord mesenchymal stem cells": 34
+    },
+    "iCCA": {
+        "intrahepatic cholangiocarcinoma": 11
+    },
+    "iNOS": {
+        "inducible nitric oxide synthase": 62
+    },
+    "iPS": {
+        "induced pluripotent stem": 157,
+        "induced pluripotent stem cells": 11
+    },
+    "iPSC": {
+        "induced pluripotent stem cell": 376,
+        "induced pluripotent stem cells": 92
+    },
+    "iPSCs": {
+        "induced pluripotent stem cells": 666,
+        "human-induced pluripotent stem cells": 18
+    },
+    "lincRNAs": {
+        "long intergenic non-coding RNAs": 12
+    },
+    "lnc": {
+        "long non-coding": 47,
+        "long noncoding": 12
+    },
+    "lncRNA": {
+        "long non-coding RNA": 431,
+        "long noncoding RNA": 218,
+        "long non-coding RNAs": 38,
+        "long noncoding RNAs": 18
+    },
+    "lncRNAs": {
+        "long non-coding RNAs": 1193,
+        "long noncoding RNAs": 675,
+        "long ncRNAs": 31
+    },
+    "mAb": {
+        "monoclonal antibody": 14
+    },
+    "mAbs": {
+        "monoclonal antibodies": 24
+    },
+    "mCRC": {
+        "metastatic colorectal cancer": 16
+    },
+    "mCRPC": {
+        "metastatic castration-resistant prostate cancer": 20
+    },
+    "mDA": {
+        "midbrain dopaminergic": 10
+    },
+    "mESCs": {
+        "mouse embryonic stem cells": 14
+    },
+    "mMSCs": {
+        "murine MSCs": 10
+    },
+    "mNSS": {
+        "modified neurological severity score": 11
+    },
+    "mPFC": {
+        "medial prefrontal cortex": 10
+    },
+    "mRNA": {
+        "messenger RNA": 325,
+        "(miRNA)-messenger RNA": 19,
+        "messenger ribonucleic acid": 19,
+        "messenger RNAs": 10
+    },
+    "mRNAs": {
+        "messenger RNAs": 178
+    },
+    "mTOR": {
+        "mammalian target of rapamycin": 99,
+        "mechanistic target of rapamycin": 22
+    },
+    "mTORC1": {
+        "mechanistic target of rapamycin complex 1": 10
+    },
+    "mi": {
+        "micro": 53
+    },
+    "miR": {
+        "microRNA": 620,
+        "MicroRNA": 68,
+        "miRNA": 41,
+        "microRNAs": 29,
+        "micro RNA": 10
+    },
+    "miR-122": {
+        "microRNA-122": 13
+    },
+    "miR-137": {
+        "microRNA-137": 11
+    },
+    "miR-145": {
+        "microRNA-145": 15
+    },
+    "miR-146a": {
+        "microRNA-146a": 10
+    },
+    "miR-155": {
+        "microRNA-155": 16,
+        "MicroRNA-155": 14
+    },
+    "miR-21": {
+        "microRNA-21": 34,
+        "MicroRNA-21": 12
+    },
+    "miR-210": {
+        "microRNA-210": 11
+    },
+    "miR-34a": {
+        "microRNA-34a": 11
+    },
+    "miR-375": {
+        "microRNA-375": 10
+    },
+    "miR-7": {
+        "microRNA-7": 13
+    },
+    "miRNA": {
+        "microRNA": 1216,
+        "MicroRNA": 151,
+        "microRNAs": 114,
+        "MicroRNAs": 60,
+        "micro RNA": 25,
+        "micro-RNA": 23,
+        "(lncRNA)-microRNA": 11,
+        "circRNA-microRNA": 10,
+        "micro RNAs": 10
+    },
+    "miRNAs": {
+        "microRNAs": 2795,
+        "MicroRNAs": 1672,
+        "micro RNAs": 75,
+        "micro-RNAs": 37,
+        "Micro-RNAs": 17,
+        "micro ribonucleic acids": 11
+    },
+    "miRs": {
+        "microRNAs": 252,
+        "MicroRNAs": 146
+    },
+    "micro-CT": {
+        "micro-computed tomography": 17
+    },
+    "mtDNA": {
+        "mitochondrial DNA": 46
+    },
+    "ncRNA": {
+        "non-coding RNA": 16
+    },
+    "ncRNAs": {
+        "non-coding RNAs": 55,
+        "noncoding RNAs": 23
+    },
+    "nt": {
+        "nucleotides": 14
+    },
+    "ox-LDL": {
+        "oxidized low-density lipoprotein": 39
+    },
+    "pDCs": {
+        "plasmacytoid dendritic cells": 10
+    },
+    "pDNA": {
+        "plasmid DNA": 23
+    },
+    "pHPL": {
+        "pooled human platelet lysate": 12
+    },
+    "pSS": {
+        "primary Sjogren's syndrome": 12
+    },
+    "piRNA": {
+        "PIWI-interacting RNA": 13
+    },
+    "piRNAs": {
+        "PIWI-interacting RNAs": 31,
+        "piwi-interacting RNAs": 10
+    },
+    "qPCR": {
+        "quantitative polymerase chain reaction": 116,
+        "quantitative PCR": 77,
+        "quantitative real-time PCR": 60,
+        "quantitative real-time polymerase chain reaction": 27
+    },
+    "qRT-PCR": {
+        "quantitative real-time polymerase chain reaction": 375,
+        "quantitative real-time PCR": 256,
+        "quantitative reverse transcription polymerase chain reaction": 84,
+        "quantitative reverse transcription-polymerase chain reaction": 84,
+        "quantitative reverse transcription PCR": 39,
+        "quantitative RT-PCR": 35,
+        "quantitative real time polymerase chain reaction": 26,
+        "quantitative real time-polymerase chain reaction": 26,
+        "quantitative reverse-transcription polymerase chain reaction": 23,
+        "quantitative reverse transcriptase polymerase chain reaction": 20,
+        "quantitative reverse transcription-PCR": 19,
+        "quantitative real time PCR": 14
+    },
+    "rAAV": {
+        "recombinant adeno-associated virus": 38
+    },
+    "rBMSCs": {
+        "rat bone marrow mesenchymal stem cells": 11
+    },
+    "rMSCs": {
+        "rat mesenchymal stem cells": 11
+    },
+    "rRNA": {
+        "ribosomal RNA": 12
+    },
+    "rTNSS": {
+        "reflective total nasal symptom score": 18
+    },
+    "rh": {
+        "recombinant human": 12
+    },
+    "rhBMP-2": {
+        "recombinant human bone morphogenetic protein-2": 27,
+        "recombinant human bone morphogenetic protein 2": 11
+    },
+    "sEV": {
+        "small extracellular vesicles": 13
+    },
+    "sEVs": {
+        "small extracellular vesicles": 32
+    },
+    "sGAG": {
+        "sulfated glycosaminoglycan": 15
+    },
+    "sIgE": {
+        "specific IgE": 16
+    },
+    "sRNA": {
+        "small RNA": 16
+    },
+    "scRNA-seq": {
+        "single-cell RNA sequencing": 39,
+        "single-cell RNA-sequencing": 10
+    },
+    "sgRNA": {
+        "single guide RNA": 10
+    },
+    "sh": {
+        "short hairpin": 20
+    },
+    "shRNA": {
+        "short hairpin RNA": 63,
+        "small hairpin RNA": 16
+    },
+    "shRNAs": {
+        "short hairpin RNAs": 12
+    },
+    "si": {
+        "small interfering": 35
+    },
+    "siRNA": {
+        "small interfering RNA": 228,
+        "short interfering RNA": 29
+    },
+    "siRNAs": {
+        "small interfering RNAs": 25
+    },
+    "ssGSEA": {
+        "single-sample gene set enrichment analysis": 18,
+        "single sample gene set enrichment analysis": 11
+    },
+    "tPA": {
+        "tissue plasminogen activator": 12
+    },
+    "tRFs": {
+        "tRNA-derived fragments": 31
+    },
+    "tRNA": {
+        "transfer RNA": 29
+    },
+    "tRNAs": {
+        "transfer RNAs": 29
+    },
+    "tsRNAs": {
+        "tRNA-derived small RNAs": 32,
+        "transfer RNA-derived small RNAs": 13
+    },
+    "uPA": {
+        "urokinase plasminogen activator": 15
+    },
+    "vWF": {
+        "von willebrand factor": 42
+    },
+    "wt": {
+        "wild-type": 14
+    }
+}
