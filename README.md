@@ -91,7 +91,6 @@ Create a `.env` file in the project root:
 
 ```bash
 OPENAI_API_KEY=your_openai_api_key_here
-RAP_API_KEY=your_rap_api_key_here
 ```
 
 ### 5. Place downloaded data files
