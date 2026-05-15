@@ -33,6 +33,7 @@ networkx==3.6.1
 joblib==1.5.3
 
 # LLM APIs
+# ollama pull ministral-3:8b && ollama pull gpt-oss:20b && ollama pull translategemma:12b
 openai==2.17.0
 ollama==0.6.1
 google-auth==2.48.0
