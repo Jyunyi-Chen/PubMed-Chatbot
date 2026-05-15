@@ -13,7 +13,7 @@ A biomedical literature Q&A system combining **Text RAG** and **Graph RAG**, wit
 1. **Fetch PubMed Papers** — Retrieve titles and abstracts from PubMed by topic using PMIDs.
 2. **Named Entity Recognition** — Extract biomedical entities from text using [scispaCy](https://allenai.github.io/scispacy/).
 3. **UMLS Concept Linking** — Map recognized entities to standardized UMLS concepts (CUIs) for semantic grounding.
-4. **Knowledge Graph Construction** — Use `LLMGraphTransformer` backed by **Gemini 2.5 Pro** to extract structured (subject, relation, object) triples from each paper.
+4. **Knowledge Graph Construction** — Use `LLMGraphTransformer` backed by **Gemini 2.5 Pro** to extract structured (subject, relation, object) triples from each paper. **Gemini 2.5 Flash** is also supported in the code as a faster, lower-cost alternative, though graph quality may be lower. You can also swap in any other LangChain-compatible LLM by modifying `graph_construction.py`.
 5. **Merge into Graph Database** — Incrementally merge per-paper graphs into a unified knowledge graph stored as NetworkX `DiGraph` objects (`.graphml`).
 
 ---
