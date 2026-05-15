@@ -120,23 +120,17 @@ The app will be available at `http://localhost:8087`.
 If you want to rebuild the databases yourself instead of downloading them:
 
 ```bash
-# 1. Download PubMed papers
-python pubmed_papers.py
-
-# 2. Build knowledge graphs (requires Gemini API access via google_credentials.json)
+# 1. Build knowledge graphs (requires Gemini API access via google_credentials.json)
 python build_graph_dbs.py
 
-# 3. Build node/edge JSON files
+# 2. Build node/edge JSON files
 python build_nodes_dbs.py
 
-# 4. Build ChromaDB vector database
+# 3. Build ChromaDB vector database
 python build_vector_dbs.py
 
-# 5. Build UMLS abbreviation database
+# 4. Build UMLS abbreviation database
 python build_abbreviation_db.py
-
-# 6. Build UMLS NMSLib index (inside umls_2025ab/)
-python umls_2025ab/create_linker.py
 ```
 
 ---
