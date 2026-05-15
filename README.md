@@ -35,7 +35,7 @@ A biomedical literature Q&A system combining **Text RAG** and **Graph RAG**, wit
 6. **RAG Path** (if retrieval needed):
    - Retrieve relevant chunks from **Vector DB** (ChromaDB + OpenAI embeddings).
    - Retrieve a subgraph from the **Graph DB** (NetworkX knowledge graphs) via UMLS concept linking.
-   - Generate an enhanced response with retrieved context using **GPT-5.2** (or **GPT-4.1**) via the OpenAI API.
+   - Generate an enhanced response with retrieved context using a selectable OpenAI model via the OpenAI API. Available options: **GPT-5.5** (default), **GPT-5.4**, **GPT-5.2**, **GPT-5.1**, **GPT-4.1**.
 7. **Non-RAG Path** (if no retrieval needed): Generate a direct response using **Ministral-3-8B** (via Ollama).
 
 ---

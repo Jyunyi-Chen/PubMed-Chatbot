@@ -44,7 +44,7 @@ OPENAI = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 OPENAI_EF = OpenAIEmbeddingFunction(os.environ.get("OPENAI_API_KEY"), "text-embedding-3-large")
 
-MODEL_NAME_TO_ID: dict[str, str] = {"GPT-5.2": "gpt-5.2", "GPT-4.1": "gpt-4.1"}
+MODEL_NAME_TO_ID: dict[str, str] = {"GPT-5.5": "gpt-5.5", "GPT-5.4": "gpt-5.4", "GPT-5.2": "gpt-5.2", "GPT-5.1": "gpt-5.1", "GPT-4.1": "gpt-4.1"}
 
 PROMPT = \
 """

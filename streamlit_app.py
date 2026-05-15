@@ -75,7 +75,7 @@ with st.sidebar:
     rag_scheme = st.selectbox("**RAG Scheme**", rag_options, index=default_index)
     st.session_state["rag_scheme"] = rag_scheme
 
-    chat_model = st.selectbox("**Chat Model**", ["GPT-5.2", "GPT-4.1"])
+    chat_model = st.selectbox("**Chat Model**", ["GPT-5.5", "GPT-5.4", "GPT-5.2", "GPT-5.1", "GPT-4.1"])
     prefer_lan = st.selectbox("**Preferred Response Language**", ["English", "Chinese"])
 
 if ("chatbot" not in st.session_state) or (st.session_state.get("curr_chat_topic") != chat_topic):
