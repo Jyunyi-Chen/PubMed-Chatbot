@@ -57,23 +57,23 @@ The following directories are excluded from this repository due to file size lim
 ### 1. Create and activate a Conda environment
 
 ```bash
-conda create -n pubmed-chatbot python=3.11 -y
+conda create -n pubmed-chatbot python=3.11.14 -y
 conda activate pubmed-chatbot
 ```
 
 ### 2. Install Python dependencies
 
+Install PyTorch with CUDA support first (adjust the CUDA version to match your system):
+
 ```bash
-pip install streamlit openai chromadb langchain langchain-community \
-    langchain-google-genai langchain-openai langchain-experimental \
-    scispacy networkx pandas python-dotenv ollama biopython \
-    scikit-learn scipy nmslib
+pip install torch==2.10.0+cu130 torchvision==0.25.0+cu130 \
+    --extra-index-url https://download.pytorch.org/whl/cu130
 ```
 
-Install the scispaCy English biomedical model:
+Then install all remaining dependencies:
 
 ```bash
-pip install https://s3-us-west-2.amazonaws.com/ai2-s3-scispacy/releases/v0.5.4/en_core_sci_lg-0.5.4.tar.gz
+pip install -r requirements.txt
 ```
 
 ### 3. Install Ollama and pull required models

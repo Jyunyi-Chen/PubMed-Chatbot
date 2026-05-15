@@ -1,0 +1,46 @@
+# PyTorch (CUDA 13.0) — install via PyTorch index
+# pip install torch==2.10.0+cu130 torchvision==0.25.0+cu130 --extra-index-url https://download.pytorch.org/whl/cu130
+torch==2.10.0+cu130
+torchvision==0.25.0+cu130
+
+# Transformers & NLP
+transformers==4.49.0
+spacy==3.7.5
+spacy-transformers==1.3.9
+scispacy==0.6.2
+en_core_sci_scibert @ https://s3-us-west-2.amazonaws.com/ai2-s3-scispacy/releases/v0.5.4/en_core_sci_scibert-0.5.4.tar.gz
+lemminflect==0.2.3
+abbreviation_extractor==0.1.4
+
+# LangChain
+langchain==1.2.8
+langchain-community==0.4.1
+langchain-core==1.2.9
+langchain-experimental==0.4.1
+langchain-google-genai==4.2.0
+langchain-openai==1.1.7
+
+# Vector DB & UMLS index
+chromadb==1.4.1
+nmslib-metabrainz==2.1.3
+
+# Data science
+numpy==1.26.4
+pandas==2.3.3
+scikit-learn==1.8.0
+scipy==1.17.0
+networkx==3.6.1
+joblib==1.5.3
+
+# LLM APIs
+openai==2.17.0
+ollama==0.6.1
+google-auth==2.48.0
+google-genai==1.62.0
+
+# UI & utilities
+streamlit==1.54.0
+pyvis==0.3.2
+python-dotenv==1.2.1
+tqdm==4.67.3
+OpenCC==1.2.0
