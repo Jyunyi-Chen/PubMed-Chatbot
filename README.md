@@ -8,7 +8,7 @@ A biomedical literature Q&A system combining **Text RAG** and **Graph RAG**, wit
 
 ### Knowledge Graph Construction
 
-<img src="./imgs/graph-construction-workflow.png" width="50%">
+<img src="./imgs/graph-construction-workflow.png" width="40%">
 
 1. **Fetch PubMed Papers** — Retrieve titles and abstracts from PubMed by topic using PMIDs.
 2. **Named Entity Recognition** — Extract biomedical entities from text using [scispaCy](https://allenai.github.io/scispacy/).
