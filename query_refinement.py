@@ -85,7 +85,7 @@ You are an expert Query Refiner. Your task is to rewrite the user's follow-up qu
 *Assistant:*
 """
 
-def to_search_query(chat_history: list[tuple[str, str]], english_query: str, model: str = "ministral-3:8b") -> str:
+def to_search_query(chat_history: list[tuple[str, str]], english_query: str, model: str = "gpt-oss:20b") -> str:
 
     if not chat_history: return english_query
 
