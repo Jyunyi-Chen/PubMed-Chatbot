@@ -61,7 +61,7 @@ with st.spinner("Loading UMLS database & Knowledge Graphs ... This might take a 
 
 with st.sidebar:
     
-    chat_topic = st.selectbox("**Chat Topic**", ["MRT", "MSC", "TRIP", "TWHM"])
+    chat_topic = st.selectbox("**Chat Topic**", ["CHA", "MRT", "MSC", "TRIP", "TWHM"])
 
     n_max_refs = st.selectbox("**Max References**", [10, 20, 30, 40, 50])
 

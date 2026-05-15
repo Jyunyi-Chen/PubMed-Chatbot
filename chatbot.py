@@ -32,7 +32,7 @@ load_dotenv()
 
 TOPIC_TO_NAME: dict[str, str] = \
 {
-    "Children Allergy": "*Children Allergy*", "MRT": "*miRNA-target Relationship Tracker* (MRT)", "MSC": "*Mesenchymal Stem Cell* (MSC)",
+    "CHA": "*Children Allergy* (CHA)", "MRT": "*miRNA-target Relationship Tracker* (MRT)", "MSC": "*Mesenchymal Stem Cell* (MSC)",
     "TRIP": "*Taiwan Regenerative medicine and Cell Therapy Information Portal* (TRIP)", "TWHM": "*Taiwan Han Medicine* (TWHM)"
 }
 

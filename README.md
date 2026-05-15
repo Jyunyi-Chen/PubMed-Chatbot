@@ -10,9 +10,14 @@ A biomedical literature Q&A system combining **Text RAG** and **Graph RAG**, wit
 
 <img src="./imgs/graph-construction-workflow.png" width="40%">
 
-1. **Fetch PubMed Papers** — Retrieve titles and abstracts from PubMed by topic using PMIDs.
-2. **Named Entity Recognition** — Extract biomedical entities from text using [scispaCy](https://allenai.github.io/scispacy/).
-3. **UMLS Concept Linking** — Map recognized entities to standardized UMLS concepts (CUIs) for semantic grounding.
+1. **Fetch PubMed Papers** — Retrieve titles and abstracts from PubMed by topic using PMIDs. The system currently supports five topics:
+   - **CHA** — Children Allergy
+   - **MRT** — miRNA-target Relationship Tracker
+   - **MSC** — Mesenchymal Stem Cell
+   - **TRIP** — Taiwan Regenerative medicine and Cell Therapy Information Portal
+   - **TWHM** — Taiwan Han Medicine
+2. **Named Entity Recognition** — Extract biomedical entities (e.g., genes, diseases, drugs, cell types) from paper titles and abstracts using [scispaCy](https://allenai.github.io/scispacy/) with the `en_core_sci_scibert` model.
+3. **UMLS Concept Linking** — Map recognized entities to standardized UMLS concepts (CUIs) using a TF-IDF + NMSLib approximate nearest-neighbor index built from UMLS 2025AB, enabling consistent cross-paper entity resolution.
 4. **Knowledge Graph Construction** — Use `LLMGraphTransformer` backed by **Gemini 2.5 Pro** to extract structured (subject, relation, object) triples from each paper. **Gemini 2.5 Flash** is also supported in the code as a faster, lower-cost alternative, though graph quality may be lower. You can also swap in any other LangChain-compatible LLM by modifying `graph_construction.py`.
 5. **Merge into Graph Database** — Incrementally merge per-paper graphs into a unified knowledge graph stored as NetworkX `DiGraph` objects (`.graphml`).
 
