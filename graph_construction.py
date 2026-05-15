@@ -42,16 +42,6 @@ GEMINI_2_5_FLASH = ChatGoogleGenerativeAI(
     credentials=CREDS, vertexai=True, temperature=0.0
 )
 
-GPT_OSS_120B_RAP = ChatOpenAI(
-    model="gpt-oss-120b", api_key=os.getenv("RAP_API_KEY"), 
-    base_url="https://rap.zeabur.app/v1", temperature=0.0
-)
-
-GPT_OSS_20B_RAP = ChatOpenAI(
-    model="gpt-oss-20b", api_key=os.getenv("RAP_API_KEY"), 
-    base_url="https://rap.zeabur.app/v1", temperature=0.0
-)
-
 PMID_NODES_MAP: dict[str, dict[str, dict[str, str]]] = {}
 
 print("\nLoading nodes ...", end=" ")
@@ -96,8 +86,6 @@ class GraphConstructor:
         self.llm_name: str = llm_name
         self.llm: BaseChatModel = None
 
-        if llm_name == "GPT OSS 20B": self.llm = GPT_OSS_20B_RAP
-        if llm_name == "GPT OSS 120B": self.llm = GPT_OSS_120B_RAP
         if llm_name == "Gemini 2.5 Pro": self.llm = GEMINI_2_5_PRO
         if llm_name == "Gemini 2.5 Flash": self.llm = GEMINI_2_5_FLASH
         if self.llm is None: raise ValueError(f"Invalid LLM option: '{llm_name}'.")

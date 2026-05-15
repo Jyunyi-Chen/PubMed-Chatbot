@@ -24,7 +24,7 @@ A biomedical literature Q&A system combining **Text RAG** and **Graph RAG**, wit
 
 1. **Language Detection** — Detect the language of the raw query. Supports English and Traditional Chinese; other languages return a warning.
 2. **Translation** (Chinese only) — Translate the query to English using **TranslateGemma-12B** (via Ollama).
-3. **Query Refinement** — Rewrite the query into a clean search query using **GPT-OSS-20B** (via Ollama), conditioned on the chat history.
+3. **Query Refinement** — Rewrite the query into a clean search query using **Ministral-3-8B** (via Ollama), conditioned on the chat history.
 4. **Query Validation** — Filter out-of-scope queries (non-biomedical) using **Ministral-3-8B** (via Ollama).
 5. **Query Routing** — Decide whether RAG retrieval is needed using **Ministral-3-8B** (via Ollama).
 6. **RAG Path** (if retrieval needed):
@@ -82,7 +82,6 @@ pip install -r requirements.txt
 
 ```bash
 ollama pull ministral-3:8b
-ollama pull gpt-oss:20b
 ollama pull translategemma:12b
 ```
 
@@ -150,7 +149,7 @@ PubMed_Chatbot/
 ├── graph_evaluation.py           # Graph construction evaluation utilities
 ├── pubmed_papers.py              # PubMed paper fetching utilities
 ├── umls_concept_linking.py       # UMLS concept linking via NMSLib + TF-IDF
-├── query_refinement.py           # Query rewriting with GPT-OSS-20B
+├── query_refinement.py           # Query rewriting with Ministral-3-8B
 ├── query_validation.py           # Out-of-scope query filtering
 ├── query_routing.py              # RAG vs. pure generation routing
 ├── query_abbreviation_expansion.py # Biomedical abbreviation expansion

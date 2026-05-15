@@ -105,6 +105,6 @@ def load_ner_pipeline() -> Language:
 @st.cache_resource
 def warmup_ollama_models() -> None:
 
-    for model in ["translategemma:12b", "gpt-oss:20b", "ministral-3:8b"]:
+    for model in ["translategemma:12b", "ministral-3:8b"]:
 
         ollama.chat(model, [], keep_alive=-1)

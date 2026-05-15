@@ -44,7 +44,7 @@ OPENAI = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 OPENAI_EF = OpenAIEmbeddingFunction(os.environ.get("OPENAI_API_KEY"), "text-embedding-3-large")
 
-MODEL_NAME_TO_ID: dict[str, str] = {"GPT-5.2": "gpt-5.2", "GPT-4.1": "gpt-4.1", "GPT-OSS-20B": "gpt-oss:20b"}
+MODEL_NAME_TO_ID: dict[str, str] = {"GPT-5.2": "gpt-5.2", "GPT-4.1": "gpt-4.1"}
 
 PROMPT = \
 """
@@ -217,17 +217,9 @@ class Chatbot:
 
             model: str = MODEL_NAME_TO_ID[chat_model]
 
-            if "gpt-oss" in model:
+            response = OPENAI.chat.completions.create(model=model, messages=messages, temperature=0)
 
-                response = ollama.chat(model, messages, options={"temperature": 0}, keep_alive=-1)
-
-                chat_log["response"] = self._linkify_pmids(response["message"]["content"])
-
-            else:
-
-                response = OPENAI.chat.completions.create(model=model, messages=messages, temperature=0)
-
-                chat_log["response"] = self._linkify_pmids(response.choices[0].message.content)
+            chat_log["response"] = self._linkify_pmids(response.choices[0].message.content)
 
         else:
 
