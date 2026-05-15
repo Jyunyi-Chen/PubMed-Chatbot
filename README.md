@@ -28,10 +28,10 @@ A biomedical literature Q&A system combining **Text RAG** and **Graph RAG**, wit
 <img src="./imgs/chat-workflow.png" width="80%">
 
 1. **Language Detection** — Detect the language of the raw query. Supports English and Traditional Chinese; other languages return a warning.
-2. **Translation** (Chinese only) — Translate the query to English using **TranslateGemma-12B** (via Ollama).
-3. **Query Refinement** — Rewrite the query into a clean search query using **GPT-OSS-20B** (via Ollama), conditioned on the chat history.
+2. **Translation** (Chinese only) — Translate the query to English using **TranslateGemma-12B** (via Ollama). This is necessary because all underlying databases (vector store and knowledge graphs) are built from English-language literature; querying them in a non-English language would result in retrieval errors or significantly degraded accuracy.
+3. **Query Refinement** — Rewrite the query into a self-contained search query using **GPT-OSS-20B** (via Ollama), conditioned on the chat history. This resolves pronouns and implicit references (e.g., "What about its side effects?" → "What are the side effects of [specific biomedical entity]?") that would otherwise cause retrieval to fail or return irrelevant results.
 4. **Query Validation** — Filter out-of-scope queries (non-biomedical) using **Ministral-3-8B** (via Ollama).
-5. **Query Routing** — Decide whether RAG retrieval is needed using **Ministral-3-8B** (via Ollama).
+5. **Query Routing** — Decide whether RAG retrieval is needed using **Ministral-3-8B** (via Ollama). For conversational inputs that do not require domain knowledge (e.g., greetings, simple acknowledgements), RAG is skipped to avoid unnecessary retrieval overhead.
 6. **RAG Path** (if retrieval needed):
    - Retrieve relevant chunks from **Vector DB** (ChromaDB + OpenAI embeddings).
    - Retrieve a subgraph from the **Graph DB** (NetworkX knowledge graphs) via UMLS concept linking.
