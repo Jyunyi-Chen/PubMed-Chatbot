@@ -33,7 +33,7 @@ def convert_edges_to_graphml(topic: str):
             edge_buffer[adjacent_nodes]["relationships"][edge["Relationship_Type"]] += 1
             edge_buffer[adjacent_nodes]["pmids"].add(pmid)
 
-    print(f"\nConstructing graph edges (topic: {topic}) ...")
+    print(f"Constructing graph edges (topic: {topic}) ...")
 
     for (source_node, target_node), attributes in edge_buffer.items():
 
@@ -56,6 +56,6 @@ def convert_edges_to_graphml(topic: str):
 
 if __name__ == "__main__":
 
-    convert_edges_to_graphml(topic="CHA")
-    convert_edges_to_graphml(topic="MRT")
-    convert_edges_to_graphml(topic="TRIP")
+    print()
+    for edges_path in Path("./edges").glob("*.json"):
+        convert_edges_to_graphml(topic=edges_path.stem)
