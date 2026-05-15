@@ -20,7 +20,7 @@ A biomedical literature Q&A system combining **Text RAG** and **Graph RAG**, wit
 
 ### Chat Workflow
 
-![Chat Workflow](./imgs/chat-workflow.png)
+<img src="./imgs/chat-workflow.png" width="80%">
 
 1. **Language Detection** — Detect the language of the raw query. Supports English and Traditional Chinese; other languages return a warning.
 2. **Translation** (Chinese only) — Translate the query to English using **TranslateGemma-12B** (via Ollama).
